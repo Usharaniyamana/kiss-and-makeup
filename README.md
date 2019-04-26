@@ -45,3 +45,9 @@ As a potential client I want to follow the artist on social media, so I can keep
 As an interested client, I want to understand how I can contact the artist and how I can make a booking. 
 As an interested client, I want a simple quote request form that only captures information that is relevant and necessary
 As a returning visitor to the website, who has already decided to contact the artist, I want to be able to request a quote or get back in touch should I have a new requirement.
+
+Wireframe mockups:
+Home Page (Desktop/Tablet) Concept
+Gallery Page 
+Pricing
+Contact/Request Quote
