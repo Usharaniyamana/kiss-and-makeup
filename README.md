@@ -5,9 +5,9 @@
 
 
 
-### UX:
+### UX
 
-##### Ideal client
+#### Ideal client
 The ideal client for this business is:
 
 Female  
@@ -32,7 +32,7 @@ Designed to draw attention to the stunning images and the work of the artist.
 Concise, all the infromation the client needs is there, without going into unnecessary detail.  
 Designed to guide the user towards requesting a quote or calling the phone number, at which point finer details can be discussed with the artist.  
 
-##### Client stories
+#### Client stories
 As a user, I want the layout to be clean and simple, so I can eaily navigate the site.
 As a user, I want to be able to see examples of the artists work within the gallery so I can decide if it is right for me.  
 As a user, I want to see a video of the artist performing so I can get a feel for their personality and service.  
@@ -43,7 +43,7 @@ As an interested client, I want to understand how I can contact the artist and h
 As an interested client, I want a simple quote request form that only captures information that is relevant and necessary.  
 As a returning visitor to the website, who has already decided to contact the artist, I want to be able to request a quote or get back in touch should I have a new requirement.  
 
-##### Wireframe mockups:  
+#### Wireframe mockups
 [Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Landing-Page.PNG)  
 [Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Gallery-Page.PNG)  
 [Pricing](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Video-Pricing-Page.PNG)  
