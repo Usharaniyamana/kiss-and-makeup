@@ -44,6 +44,6 @@ As a returning visitor to the website, who has already decided to contact the ar
 
 ##### Wireframe mockups:  
 [Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Landing-Page.PNG)   
-[Gallery Page]((https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Gallery-Page.PNG))
+[Gallery Page]((https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Gallery-Page.PNG)
 [Pricing]  
 [Contact/Request Quote]  
