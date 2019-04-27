@@ -43,7 +43,7 @@ As an interested client, I want a simple quote request form that only captures i
 As a returning visitor to the website, who has already decided to contact the artist, I want to be able to request a quote or get back in touch should I have a new requirement.  
 
 ##### Wireframe mockups:  
-[Home Page](https://github.com/Rorywork/kiss-and-makeup/blob/master/images/Wireframe%20Landing%20Page%20(Desktop).PNG)   
+[Home Page](https://github.com/rorywork/kiss-and-makeup/images/Wireframe-Landing-Page.PNG)   
 Gallery Page   
 Pricing  
 Contact/Request Quote  
