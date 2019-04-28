@@ -46,8 +46,8 @@ Designed to guide the user towards requesting a quote or calling the phone numbe
 
 #### Initial Sketches
 [Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Landing-Page.jpg)  
-[Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Gallery-Page.PNG)  
-[Pricing](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Video-Pricing-Page.PNG)  
+[Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Gallery-Page.jpg)  
+[Pricing](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Prices-Page.jpg)  
 [Contact](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Contact-Page.jpg)
 
 #### Wireframes
