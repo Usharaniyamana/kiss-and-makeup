@@ -10,13 +10,13 @@
 #### Ideal client
 The ideal client for this business is:
 
-Female  
-Is getting married or attending a wedding/social event.  
-Has a disposable income.  
-Is South Asian or olive skinned.  
-Wants to look amazing.  
-Lives in London.  
-Social media savvy.  
+* Female  
+* Is getting married or attending a wedding/social event.  
+* Has a disposable income.  
+* Is South Asian or olive skinned.  
+* Wants to look amazing.  
+* Lives in London.  
+* Social media user, in particular Instagram.
 
 This project is the best way to help them achieve these things because:
 
