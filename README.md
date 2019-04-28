@@ -66,3 +66,8 @@ Designed to guide the user towards requesting a quote or calling the phone numbe
 ###### Mobile:
 [Home Page - includes pricing section](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Landing-Page-Mobile.PNG)  
 [Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Gallery-Page-Mobile.PNG)  
+
+
+### Deployment
+This project was developed using the Cloud9 IDE, committed to git and pushed to GitHub using the built in functionality within cloud9.  
+
