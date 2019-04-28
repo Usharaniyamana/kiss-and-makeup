@@ -58,10 +58,10 @@ Designed to guide the user towards requesting a quote or calling the phone numbe
 [Contact](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Contact-Page.PNG)
 
 ###### Tablet:
-[Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Landing-Page.PNG)  
-[Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Gallery-Page.PNG)  
-[Pricing](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Video-Pricing-Page.PNG)  
-[Contact](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Contact-Page.PNG)
+[Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Landing-Page-Tablet.PNG)  
+[Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Gallery-Page-Tablet.PNG)  
+[Pricing](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Prices-Tablet.PNG)  
+[Contact](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Contact-Page-Tablet.PNG)
 
 ###### Mobile:
 [Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Landing-Page.PNG)  
