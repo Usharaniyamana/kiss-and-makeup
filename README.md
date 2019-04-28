@@ -47,4 +47,4 @@ As a returning visitor to the website, who has already decided to contact the ar
 [Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Landing-Page.PNG)  
 [Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Gallery-Page.PNG)  
 [Pricing](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Video-Pricing-Page.PNG)  
-[Contact Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Contact-Quote-Page.PNG)
+[Contact](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Video-Pricing-Page.PNG)
