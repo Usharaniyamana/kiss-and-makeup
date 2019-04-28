@@ -45,7 +45,7 @@ Designed to guide the user towards requesting a quote or calling the phone numbe
 1. As a returning visitor to the website, who has already decided to contact the artist, I want to be able to request a quote or get back in touch should I have a new requirement.  
 
 #### Initial Sketches
-[Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Landing-Page.PNG)  
+[Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Landing-Page.jpg)  
 [Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Gallery-Page.PNG)  
 [Pricing](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Video-Pricing-Page.PNG)  
 [Contact](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Contact-Page.jpg)
