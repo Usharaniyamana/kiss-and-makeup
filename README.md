@@ -71,3 +71,9 @@ Designed to guide the user towards requesting a quote or calling the phone numbe
 ### Deployment
 This project was developed using the Cloud9 IDE, committed to git and pushed to GitHub using the built in functionality within cloud9.  
 
+### Credits
+
+###### Inspiration
+
+The following websites provided some inital ideas an inspiration for the wireframes:
+
