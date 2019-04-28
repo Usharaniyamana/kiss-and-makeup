@@ -33,18 +33,18 @@ Concise, all the infromation the client needs is there, without going into unnec
 Designed to guide the user towards requesting a quote or calling the phone number, at which point finer details can be discussed with the artist.  
 
 #### Client stories
-As a user, I want the layout to be clean and simple, so I can eaily navigate the site.
-As a user, I want to be able to see examples of the artists work within the gallery so I can decide if it is right for me.  
-As a user, I want to see a video of the artist performing so I can get a feel for their personality and service.  
-As a potential client, I want to know what past clients looked like after the makeover, to see whether the artist has done a good job.  
-As a potential client, I want a rough idea of the prices so I can decide if it is affordable and good value.  
-As a potential client I want to follow the artist on social media, so I can keep up with her latest makeovers and decide on a design for myself.  
-As an interested client, I want to understand how I can contact the artist and how I can make a booking.  
-As an interested client, I want a simple quote request form that only captures information that is relevant and necessary.  
-As a returning visitor to the website, who has already decided to contact the artist, I want to be able to request a quote or get back in touch should I have a new requirement.  
+1. As a user, I want the layout to be clean and simple, so I can eaily navigate the site.
+1. As a user, I want to be able to see examples of the artists work within the gallery so I can decide if it is right for me.  
+1. As a user, I want to see a video of the artist performing so I can get a feel for their personality and service.  
+1. As a potential client, I want to know what past clients looked like after the makeover, to see whether the artist has done a good job.  
+1. As a potential client, I want a rough idea of the prices so I can decide if it is affordable and good value.  
+1. As a potential client I want to follow the artist on social media, so I can keep up with her latest makeovers and decide on a design for myself.  
+1. As an interested client, I want to understand how I can contact the artist and how I can make a booking.  
+1. As an interested client, I want a simple quote request form that only captures information that is relevant and necessary.  
+1. As a returning visitor to the website, who has already decided to contact the artist, I want to be able to request a quote or get back in touch should I have a new requirement.  
 
 #### Wireframe mockups
 [Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Landing-Page.PNG)  
 [Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Gallery-Page.PNG)  
 [Pricing](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Video-Pricing-Page.PNG)  
-[Contact](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Video-Pricing-Page.PNG)
+[Contact](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Contact-Page.PNG)
