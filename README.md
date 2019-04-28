@@ -21,7 +21,7 @@ The ideal client for this business is:
 This project is the best way to help them achieve these things because:
 
 Based on my research there is a huge variety in the UX standard of other make-up artist's websites, they are often not responsive or out of date.  
-The majority of werbsites are aimed at Caucasian skin tones, this one is specifically for olive skin, and women with Asian ethnicity.  
+The majority of websites are aimed at Caucasian skin tones, this one is specifically for olive skin, and women with Asian ethnicity.  
 It will allow the customer to book in via phone or generate a quote depending on what they feel more comfortable with.  
 The make up artist has a large following on social media and as such comes up with bold, unique designs you likely will not be able to replicate elsewhere.  
 
