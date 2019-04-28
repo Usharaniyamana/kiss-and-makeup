@@ -77,3 +77,9 @@ This project was developed using the Cloud9 IDE, committed to git and pushed to 
 
 The following websites provided some inital ideas an inspiration for the wireframes:
 
+* [Portait Artist - Anna Gilhespy](https://ajgreaves.github.io/portrait-artist/)
+* [Tara Sanger](http://www.tarasangermakeup.co.uk/)
+* [Asian Wedding Directory](https://www.asianaweddingdirectory.co.uk/beauty)
+* [Boudoir Belle](http://www.makeupartistsouthampton.co.uk/professional-asian-indian-bridal-makeup-artist/)
+* [Amazing Face](https://amazing-face.co.uk/)
+
