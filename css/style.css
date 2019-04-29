@@ -12,3 +12,10 @@
     height: 150px;
 }
 
+#index-banner{
+    background-color: pink;
+}
+
+#about-banner{
+    background-color: blue;
+}
