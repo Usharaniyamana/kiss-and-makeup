@@ -5,3 +5,10 @@
     width: 100vw;
 }
 
+.index-sub-image{
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+}
+
