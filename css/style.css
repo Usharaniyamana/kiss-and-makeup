@@ -9,11 +9,12 @@
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 150px;
+    height: 200px;
 }
 
 #index-banner{
     background-color: #FCE8EC;
+    padding: 50px;
 }
 
 #landing-text{
