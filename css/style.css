@@ -1,7 +1,12 @@
 
+.navbar{
+    background-color: black;
+}
+
 .gold-text{
     color: #b9b080;
 }
+
 
 #index-main-image{
     position: relative;
