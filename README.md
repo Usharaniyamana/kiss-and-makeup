@@ -52,6 +52,11 @@ As a returning visitor to the website, who has already decided to contact the ar
 
 ### Technologies Used
 
+1. HTML5
+1. CSS3
+1. Fontawesome
+1. https://charliepark.org/bootstrap_buttons/ - This generates different coloured buttons for use with Bootstrap 4
+
 
 
 
