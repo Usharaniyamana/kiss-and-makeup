@@ -1,4 +1,6 @@
 
+
+
 #index-main-image{
     position: relative;
     background-repeat: no-repeat;
@@ -25,13 +27,24 @@
 
 #footer{
     background-color: white;
-}
-
-.footer-social-media-links{
     display: inline;
     text-align: center;
-    padding: 0px 10px 0px 0px;
-    list-style: none;
     font-size: 30px;
+}
+
+.footer-social{
+    padding: 10px 0px 0px 0px;
+    list-style: none;
+    display: inline;
+    color: #b9b080;
+}
+
+.rory-credit{
+    padding: 30px 0px 0px 0px;
+    font-size: 10px;
+    font-style: italic;
+}
+
+.footer-social-tagline{
     color: #b9b080;
 }
