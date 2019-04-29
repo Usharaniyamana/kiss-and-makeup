@@ -24,5 +24,14 @@
 }
 
 #footer{
-    background-color: blue;
+    background-color: white;
+}
+
+.footer-social-media-links{
+    display: inline;
+    text-align: center;
+    padding: 0px 10px 0px 0px;
+    list-style: none;
+    font-size: 30px;
+    color: #b9b080;
 }
