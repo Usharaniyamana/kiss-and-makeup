@@ -49,4 +49,3 @@ As a returning visitor to the website, who has already decided to contact the ar
 [Pricing](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Video-Pricing-Page.PNG)  
 [Contact/Request Quote](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Contact-Quote-Page.PNG)
 
-# test commit
