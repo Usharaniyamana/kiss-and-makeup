@@ -1,12 +1,24 @@
-@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:700i|Fira+Sans');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,400i|Source+Sans+Pro:200i,400,700');
 
+/*font-family: 'Cormorant Garamond', serif;*/
+/*font-family: 'Fira Sans', sans-serif;*/
+
+/*font-family: 'Playfair Display', serif;*/
+/*font-family: 'Source Sans Pro', sans-serif;*/
+
+body{
+    font-family: 'Fira Sans', sans-serif;*/
+}
 
 .navbar{
     background-color: black;
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
 }
 
 .gold-text{
     color: #b9b080;
+    font-family: 
 }
 
 
@@ -73,5 +85,7 @@
 }
 
 .footer-social-tagline{
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
     color: #b9b080;
 }
