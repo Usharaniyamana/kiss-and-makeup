@@ -16,6 +16,10 @@ body{
     font-style: italic;
 }
 
+.logo{
+    height: 50px;
+}
+
 .gold-text{
     color: #b9b080;
     font-family: 
