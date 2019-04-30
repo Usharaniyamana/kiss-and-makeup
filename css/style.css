@@ -121,6 +121,7 @@ body{
 @media (min-width:576px){
     #bottom-footer{
         margin-top: 50px;
+        padding-bottom: 20px;
             }    
     #footer{
         margin-top: 30px;
