@@ -17,12 +17,24 @@ body{
 }
 
 .logo{
-    height: 50px;
+    height: 40px;
+}
+
+.logo-credit{
+    font-size: 6px;
+    color: grey;
+    font-style: italic;
+
+}
+
+#navbarSupportedContent{
+    text-align: center;
 }
 
 .gold-text{
     color: #b9b080;
-    font-family: 
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 23px;
 }
 
 
@@ -92,4 +104,5 @@ body{
     font-family: 'Cormorant Garamond', serif;
     font-style: italic;
     color: #b9b080;
+    font-size: 20px;
 }
