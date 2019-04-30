@@ -35,7 +35,7 @@ body{
 .gold-text{
     color: #b9b080;
     font-family: 'Cormorant Garamond', serif;
-    font-size: 23px;
+    font-size: 30px;
 }
 
 
@@ -43,7 +43,7 @@ body{
     position: relative;
     background-repeat: no-repeat;
     background-size: contain;
-    padding-top: 50px;
+    padding-top: 60px;
     width: 100vw;
 }
 
@@ -102,20 +102,7 @@ body{
     font-family: 'Cormorant Garamond', serif;
     font-style: italic;
     color: #b9b080;
-    font-size: 20px;
-}
-
-
-@media (min-width:768px){
-    #footer-social{
-        font-size: 50px;
-            }    
-}
-
-@media (min-width:1200px){
-    #footer-social{
-        font-size: 70px;
-            }    
+    font-size: 40px;
 }
 
 @media (min-width:576px){
@@ -130,5 +117,19 @@ body{
         margin-bottom: 30px;
     }
 }
+
+@media (min-width:768px){
+    #footer-social{
+        font-size: 50px;
+            }    
+}
+
+@media (min-width:1200px){
+    #footer-social{
+        font-size: 70px;
+            }    
+}
+
+
 
 
