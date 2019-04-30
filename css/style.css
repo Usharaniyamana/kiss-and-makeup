@@ -7,7 +7,7 @@
 /*font-family: 'Source Sans Pro', sans-serif;*/
 
 body{
-    font-family: 'Fira Sans', sans-serif;*/
+    font-family: 'Fira Sans', sans-serif;
 }
 
 .navbar{
@@ -131,21 +131,3 @@ body{
 }
 
 
-
-
-
-/*.smallprint{*/
-/*    font-weight: lighter;*/
-/*    font-size: 7px;*/
-    
-/*}*/
-
-/*@media (min-width:768px){*/
-/*    .skeleton{*/
-/*        background-color: #111111;*/
-/*        background-size: cover;*/
-/*        position: relative;*/
-/*        width:85%;*/
-/*        margin:0 auto;*/
-/*        border: black 2px solid;*/
-/*}*/
