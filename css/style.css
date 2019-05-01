@@ -73,8 +73,8 @@ body{
 }
 
 #index-banner{
+    height:200px;
     background-color: #FCE8EC;
-    padding: 50px 50px 50px 50px;
 }
 
 #landing-text{
