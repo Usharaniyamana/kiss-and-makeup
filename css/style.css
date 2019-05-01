@@ -38,15 +38,22 @@ body{
     font-style: italic;
 }
 
-#index-banner-text{
+#index-banner-text-headline{
     text-align: center;
     margin-top: 35px;
-    font-size: 20px;
+    font-size: 30px;
     
 }
 
+#index-banner-subtext{
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Fira Sans';
+    color: #b9b080;
+}
+
 #index-banner{
-    height:130px;
+    height:180px;
     background-color: #FCE8EC;
 }
 
