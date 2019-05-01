@@ -21,7 +21,6 @@ body{
 }
 
 .logo-credit{
-
     font-size: 5px;
     color: grey;
     font-style: italic;
@@ -36,8 +35,24 @@ body{
     color: #b9b080;
     font-family: 'Cormorant Garamond', serif;
     font-size: 30px;
+    font-style: italic;
 }
 
+#index-banner-text{
+    text-align: center;
+    margin-top: 35px;
+    font-size: 20px;
+    
+}
+
+#index-banner{
+    height:130px;
+    background-color: #FCE8EC;
+}
+
+#landing-text{
+    text-align: center;
+}
 
 #index-main-image{
     position: relative;
@@ -70,15 +85,6 @@ body{
     background-size: cover;
     height: 200px;
     width: 100vw;
-}
-
-#index-banner{
-    height:200px;
-    background-color: #FCE8EC;
-}
-
-#landing-text{
-    text-align: center;
 }
 
 #footer{
