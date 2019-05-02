@@ -139,7 +139,7 @@ body{
 /*}*/
 
 #index-container{
-    background-color: #FCE8EC
+    background-color: #FCE8EC;
 }
 
 #footer{
@@ -166,6 +166,16 @@ body{
     font-size: 40px;
 }
 
+#bottom-image-index img{
+    width: 100%;
+    border: 2px solid #b9b080;
+}
+
+#bottom-image-row{
+    padding: 20px 10px 20px 10px;
+    margin-bottom: 10px;
+    background-color: #FCE8EC;;
+}
 
 @media (min-width:576px){
     #bottom-footer{
