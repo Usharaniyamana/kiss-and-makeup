@@ -53,7 +53,7 @@ body{
 #index-banner-subtext{
     font-size: 20px;
     text-align: center;
-    font-family: 'Fira Sans';
+    font-family: 'Fira Sans', sans-serif;
     color: #b9b080;
 }
 
@@ -101,22 +101,16 @@ body{
     text-align: center;
     padding: 30px 30px 30px 30px;
     background-color: #FCE8EC;
-    font-family: 'Fira Sans', sans-serif
+    
+
 }
 
 #index-info-text{
     background-color: white;
     padding: 10px 10px 10px 10px;
-}
+    border: 2px solid #b9b080;
+    font-family: 'Fira Sans' serif;
 
-#index-info-image{
-    max-width:100%;
-    max-height:100%;
-}
-
-.bottom-index-image{
-    max-width:100%;
-    max-height:100%;
 }
 
 .btn-custom {
