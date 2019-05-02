@@ -45,6 +45,11 @@ body{
     
 }
 
+#index-images-row{
+    background-color: white;
+    padding-bottom: 30px;
+}
+
 #index-banner-subtext{
     font-size: 20px;
     text-align: center;
@@ -55,8 +60,6 @@ body{
 #index-banner{
     height:180px;
     background-color: #FCE8EC;
-    display: block;
-    margin: auto;
 }
 
 .index-images{
@@ -64,8 +67,21 @@ body{
     display: block;
     margin: auto;
     margin-top: 30px;
-    margin-left: 0px;
     border: 2px solid #b9b080;
+
+}
+
+.fa-phone{
+    font-size:20px;
+    color: #b9b080;
+}
+
+.phone-number-index{
+    color: #b9b080;
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-size: 30px;
+    padding: 10px;
 }
 
 #landing-text{
@@ -93,8 +109,14 @@ body{
     padding: 10px 10px 10px 10px;
 }
 
+#index-info-image{
+    max-width:100%;
+    max-height:100%;
+}
+
 .bottom-index-image{
-    height: 200px;
+    max-width:100%;
+    max-height:100%;
 }
 
 .btn-custom {
@@ -114,12 +136,16 @@ body{
   -webkit-font-smoothing: antialiased;
 }
 
-.index-sub-image{
-    position: relative;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 200px;
-    width: 100vw;
+/*.index-sub-image{*/
+/*    position: relative;*/
+/*    background-repeat: no-repeat;*/
+/*    background-size: cover;*/
+/*    height: 200px;*/
+/*    width: 100vw;*/
+/*}*/
+
+#index-container{
+    background-color: #FCE8EC
 }
 
 #footer{
@@ -145,6 +171,7 @@ body{
     color: #b9b080;
     font-size: 40px;
 }
+
 
 @media (min-width:576px){
     #bottom-footer{
