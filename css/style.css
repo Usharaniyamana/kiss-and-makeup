@@ -79,6 +79,19 @@ body{
     width: 100vw;
 }
 
+#index-info-section{
+    margin-top: 20px;
+    text-align: center;
+    padding: 30px;
+    background-color: #FCE8EC;
+    font-family: 'Fira Sans', sans-serif
+}
+
+#index-info-text{
+    background-color: white;
+    padding: 20px;
+}
+
 .btn-custom {
   background-color: hsl(54, 38%, 47%) !important;
   background-repeat: repeat-x;
