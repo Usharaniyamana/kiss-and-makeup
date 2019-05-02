@@ -55,6 +55,8 @@ body{
 #index-banner{
     height:180px;
     background-color: #FCE8EC;
+    display: block;
+    margin: auto;
 }
 
 .index-images{
@@ -65,7 +67,6 @@ body{
     margin-left: 0px;
     border: 2px solid #b9b080;
 }
-
 
 #landing-text{
     text-align: center;
@@ -82,14 +83,18 @@ body{
 #index-info-section{
     margin-top: 20px;
     text-align: center;
-    padding: 30px;
+    padding: 30px 30px 30px 30px;
     background-color: #FCE8EC;
     font-family: 'Fira Sans', sans-serif
 }
 
 #index-info-text{
     background-color: white;
-    padding: 20px;
+    padding: 10px 10px 10px 10px;
+}
+
+.bottom-index-image{
+    height: 200px;
 }
 
 .btn-custom {
