@@ -101,8 +101,6 @@ body{
     text-align: center;
     padding: 30px 30px 30px 30px;
     background-color: #FCE8EC;
-    
-
 }
 
 #index-info-text{
@@ -203,11 +201,27 @@ body{
         font-size: 50px;
     }
     .index-images{
-        height:160px;
+        height:150px;
     }
 }
 
 @media (min-width:1200px){
+    #footer-social{
+        font-size: 70px;
+            }    
+    .index-images{
+        height:200px;
+    }
+    #index-info-section{
+        margin-top: 100px;
+        text-align: center;
+        padding: 30px 30px 30px 30px;
+        background-color: #FCE8EC;
+}
+    
+
+    
+@media (min-width:1600px){
     #footer-social{
         font-size: 70px;
             }    
