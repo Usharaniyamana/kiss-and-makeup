@@ -196,6 +196,8 @@ body{
 
 }
 
+
+
 @media (min-width:768px){
     #footer-social{
         font-size: 50px;
@@ -246,6 +248,51 @@ body{
         height:250px;
     }
 }
+
+
+
+
+/*Gallery Page*/
+
+.gallery-headline{
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+    color: #b9b080
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
