@@ -76,7 +76,14 @@ body{
     margin: auto;
     margin-top: 30px;
     border: 2px solid #b9b080;
+}
 
+.gallery-images{
+    height: 200px;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    border: 2px solid #b9b080;
 }
 
 .fa-phone{
@@ -223,6 +230,14 @@ body{
     .index-images{
         height:200px;
     }
+    .gallery-images{
+        height: 300px;
+        display: block;
+        margin: auto;
+        margin-top: 30px;
+        border: 2px solid #b9b080;
+    }    
+
 
 }
 
@@ -235,6 +250,26 @@ body{
     .index-images{
         height:150px;
     }
+    .gallery-images{
+        height: 200px;
+        display: block;
+        margin: auto;
+        margin-top: 30px;
+        border: 2px solid #b9b080;
+    }    
+    
+}
+
+@media (min-width:992px){
+
+    .gallery-images{
+        height: 300px;
+        display: block;
+        margin: auto;
+        margin-top: 30px;
+        border: 2px solid #b9b080;
+    }    
+    
 }
 
 @media (min-width:1200px){
@@ -267,7 +302,14 @@ body{
         height:250px;
         background-color: #FCE8EC;
 }
-    
+    .gallery-images{
+        height: 350px;
+        display: block;
+        margin: auto;
+        margin-top: 30px;
+        border: 2px solid #b9b080;
+    }    
+}   
 
     
 @media (min-width:1600px){
