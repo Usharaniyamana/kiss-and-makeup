@@ -50,6 +50,14 @@ body{
     padding-bottom: 30px;
 }
 
+
+#gallery-images-row{
+    background-color: #2d313c;
+    padding-bottom: 30px;
+}
+
+
+
 #index-banner-subtext{
     font-size: 20px;
     text-align: center;
