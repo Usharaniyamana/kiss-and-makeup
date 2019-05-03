@@ -212,10 +212,27 @@ body{
     .index-images{
         height:200px;
     }
+    #index-banner-text-headline{
+        text-align: center;
+        margin-top: 60px;
+        font-size: 70px;
+        
+    }
     #index-info-section{
         margin-top: 100px;
         text-align: center;
         padding: 30px 30px 30px 30px;
+        background-color: #FCE8EC;
+    }
+    #index-banner-subtext{
+        font-size: 30px;
+        text-align: center;
+        font-family: 'Fira Sans', sans-serif;
+        color: #b9b080;
+}
+
+    #index-banner{
+        height:250px;
         background-color: #FCE8EC;
 }
     
