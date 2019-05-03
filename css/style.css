@@ -179,6 +179,28 @@ body{
     background-color: #FCE8EC;;
 }
 
+
+
+.section1{
+    background-color: red;
+    height: 500px;
+}
+
+.gallery-headline{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+    color: black;
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    color: #b9b080;
+}
+
+
+
+
+
+
 @media (min-width:576px){
     #bottom-footer{
         margin-top: 50px;
@@ -248,20 +270,6 @@ body{
         height:250px;
     }
 }
-
-
-
-
-/*Gallery Page*/
-
-.gallery-headline{
-    margin-top: 30px;
-    text-align: center;
-    font-family: 'Cormorant Garamond', serif;
-    color: #b9b080
-}
-
-
 
 
 
