@@ -46,7 +46,7 @@ body{
 }
 
 #index-images-row{
-    background-color: white;
+    background-color: #2d313c;
     padding-bottom: 30px;
 }
 
@@ -63,7 +63,7 @@ body{
 }
 
 .index-images{
-    height: 100px;
+    height: 200px;
     display: block;
     margin: auto;
     margin-top: 30px;
@@ -166,6 +166,10 @@ body{
     font-size: 40px;
 }
 
+.imagescol{
+    height: 100px;
+}
+
 #bottom-image-index img{
     width: 100%;
     border: 2px solid #b9b080;
@@ -188,18 +192,28 @@ body{
     #social-heading{
         margin-bottom: 30px;
     }
+    .index-images{
+        height:200px;
+    }
+
 }
 
 @media (min-width:768px){
     #footer-social{
         font-size: 50px;
-            }    
+    }
+    .index-images{
+        height:160px;
+    }
 }
 
 @media (min-width:1200px){
     #footer-social{
         font-size: 70px;
             }    
+    .index-images{
+        height:250px;
+    }
 }
 
 
