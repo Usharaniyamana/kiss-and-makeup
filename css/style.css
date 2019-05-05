@@ -220,15 +220,24 @@ body{
     font-family: 'Cormorant Garamond', serif;
     font-style: italic;
     color: #b9b080;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .prices-sub-text{
     font-family: 'Fira Sans', sans-serif;
     text-align: center;
+}
 
-    
+#testimonial-text{
+    color: #b9b080;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #2d313c;
 }
 
 
