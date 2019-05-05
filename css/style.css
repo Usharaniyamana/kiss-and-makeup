@@ -118,7 +118,21 @@ body{
     background-color: #FCE8EC;
 }
 
+#prices-info-section{
+        text-align: center;
+        padding: 30px 30px 30px 30px;
+        background-color: #FCE8EC;
+    }
+
 #index-info-text{
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+    border: 2px solid #b9b080;
+    font-family: 'Fira Sans' serif;
+
+}
+
+#prices-info-text{
     background-color: white;
     padding: 10px 10px 10px 10px;
     border: 2px solid #b9b080;
@@ -313,7 +327,12 @@ body{
     #index-info-section{
         margin-top: 100px;
         text-align: center;
-        padding: 20px 20px 70px 20px;
+        background-color: #FCE8EC;
+    }
+    #prices-info-section{
+
+        text-align: center;
+        padding: 20px 20px 20px 20px;
         background-color: #FCE8EC;
     }
     #index-banner-subtext{
