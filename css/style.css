@@ -213,6 +213,23 @@ body{
 }
 
 
+.prices-heading{
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    color: #b9b080;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+
+
+
+
+
 
 
 @media (min-width:576px){
