@@ -254,6 +254,17 @@ body{
     background-color: #2d313c;
 }
 
+#contact-page-bottom-text{
+    color: #b9b080;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #2d313c;
+}
+
 .contact-heading{
     text-align: center;
     font-size: 40px;
