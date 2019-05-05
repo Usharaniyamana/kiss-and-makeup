@@ -254,6 +254,27 @@ body{
     background-color: #2d313c;
 }
 
+.contact-heading{
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    color: #b9b080;
+    padding-top: 50px;
+
+}
+
+.contact-phone{
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    color: #b9b080;
+
+    padding-bottom: 50px;
+}
 
 @media (min-width:576px){
     #bottom-footer{
