@@ -224,7 +224,18 @@ body{
     padding-bottom: 100px;
 }
 
+#prices-container{
+    background-color: #FCE8EC;
+    height: 200px;
+}
 
+
+#prices-info-section{
+    margin-top: 20px;
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+    background-color: #FCE8EC;
+}
 
 
 
