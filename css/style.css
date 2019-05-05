@@ -294,6 +294,10 @@ body{
     padding-bottom: 50px;
 }
 
+.request-quote-form{
+    font-family: 'Fira Sans', sans-serif;
+}
+
 @media (min-width:576px){
     #bottom-footer{
         margin-top: 50px;
