@@ -66,9 +66,10 @@ body {
 }
 
 .index-images {
-  height: 200px;
   display: block;
   margin: auto;
+  max-width: 100%;
+  height: auto;
   margin-top: 30px;
   border: 2px solid #b9b080;
 }
@@ -298,10 +299,6 @@ body {
     margin-bottom: 30px;
   }
 
-  .index-images {
-    height: 200px;
-  }
-
   .gallery-images {
     height: 300px;
     display: block;
@@ -315,11 +312,6 @@ body {
   #footer-social {
     font-size: 50px;
   }
-
-  .index-images {
-    height: 150px;
-  }
-
   .gallery-images {
     height: 200px;
     display: block;
@@ -344,11 +336,6 @@ body {
   #footer-social {
     font-size: 70px;
   }
-
-  .index-images {
-    height: 200px;
-  }
-
   #index-banner-text-headline {
     text-align: center;
     margin-top: 60px;
@@ -393,9 +380,6 @@ body {
     font-size: 70px;
   }
 
-  .index-images {
-    height: 250px;
-  }
 }
 
 
