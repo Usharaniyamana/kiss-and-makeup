@@ -98,13 +98,6 @@ body {
   text-align: center;
 }
 
-#index-main-image {
-  position: relative;
-  background-repeat: no-repeat;
-  background-size: contain;
-  padding-top: 60px;
-  width: 99vw;
-}
 
 .main-page-image{
   padding-top: 60px;
