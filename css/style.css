@@ -103,7 +103,12 @@ body {
   background-repeat: no-repeat;
   background-size: contain;
   padding-top: 60px;
-  width: 100vw;
+  width: 99vw;
+}
+
+.main-page-image{
+  padding-top: 60px;
+  width: 99vw;
 }
 
 #index-info-section {
