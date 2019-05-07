@@ -52,9 +52,11 @@ As a returning visitor to the website, who has already decided to contact the ar
 
 ### Technologies Used
 
-1. HTML5
-1. CSS3
+1. HTML
+1. CSS
 1. Fontawesome
+1. Boostrap
+1. Jquery
 1. https://charliepark.org/bootstrap_buttons/ - This generates different coloured buttons for use with Bootstrap 4
 1. Codebeautify - https://codebeautify.org/css-beautify-minify - This website tidies up html and css code, makes it run faster.
 
