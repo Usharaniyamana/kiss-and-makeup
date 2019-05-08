@@ -282,6 +282,17 @@ body {
   text-decoration: none;
 }
 
+#prices-phone {
+  text-align: center;
+  font-size: 40px;
+  color: black;
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  color: #b9b080;
+  padding-bottom: 50px;
+  text-decoration: none;
+}
+
 #index-phone{
   text-align: center;
   color: #b9b080;
