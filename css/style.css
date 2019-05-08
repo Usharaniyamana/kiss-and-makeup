@@ -172,7 +172,15 @@ body {
   background-color: #FCE8EC;
 }
 
-#footer {
+
+
+
+
+
+                                                                      /*Footer*/
+
+
+footer{
   text-align: center;
   font-size: 1rem;
 }
@@ -184,10 +192,22 @@ body {
   color: #b9b080;
 }
 
+.footer-link{
+  color: black;
+  padding: 5px;
+}
+
 .rory-credit {
   /*font-size: 10px;*/
   font-style: italic;
 }
+
+
+
+
+
+
+
 
 .imagescol {
   height: 100px;
@@ -296,11 +316,6 @@ body {
 
 .request-quote-form {
   font-family: 'Fira Sans', sans-serif;
-}
-
-#bottom-footer{
-  margin-top: 30px;
-  font-size: 1rem;
 }
 
 @media (min-width:576px) {
