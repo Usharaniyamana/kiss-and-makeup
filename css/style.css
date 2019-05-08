@@ -25,7 +25,7 @@ body {
 
 
 
-/*Cross-Page Classes*/  
+/*Cross-Page Classes and ID's*/  
 
 .headings{
   font-size: 2rem;
@@ -61,6 +61,14 @@ body {
   font-family: 'Cormorant Garamond', serif;
   font-size: 2rem;
   font-style: italic;
+}
+
+.info-text-box{
+  text-align: center;
+  background-color: white;
+  padding: 20px;
+  border: 2px solid #b9b080;
+  font-family: 'Fira Sans' serif;
 }
 
 
