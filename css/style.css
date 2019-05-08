@@ -132,22 +132,28 @@ body {
   width: 99vw;
 }
 
-#index-info-section {
-  margin-top: 20px;
-  text-align: center;
-  padding: 30px 30px 30px 30px;
-  background-color: #FCE8EC;
-}
-
 #prices-info-section {
-  text-align: center;
-  padding: 30px 30px 30px 30px;
   background-color: #FCE8EC;
 }
 
-#index-info-text {
+.text-banner{
+  background-color: #FCE8EC;
+  padding: 40px;
+}
+
+
+.index-info-text {
+  text-align: center;
   background-color: white;
-  padding: 10px 10px 10px 10px;
+  padding: 20px;
+  border: 2px solid #b9b080;
+  font-family: 'Fira Sans' serif;
+}
+
+.info-text-box{
+  text-align: center;
+  background-color: white;
+  padding: 20px;
   border: 2px solid #b9b080;
   font-family: 'Fira Sans' serif;
 }
@@ -292,6 +298,7 @@ footer{
 }
 
 .phone-number{
+  font-size: 1.25rem;
   text-align: center;
   color: #b9b080;
   font-family: 'Cormorant Garamond', serif;
@@ -301,6 +308,10 @@ footer{
 .phone-number:hover{
   text-decoration: none;
   color: #b9b080;
+}
+
+#phone-number-prices{
+  font-size: 2rem;
 }
 
 
