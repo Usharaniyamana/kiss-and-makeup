@@ -12,6 +12,14 @@ body {
   font-size: 16px;
 }
 
+.headings{
+  font-size: 2rem;
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  color: #b9b080
+}
+
+
 .navbar {
   background-color: black;
   font-family: 'Cormorant Garamond', serif;
