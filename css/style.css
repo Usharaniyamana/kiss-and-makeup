@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,400i|Source+Sans+Pro:200i,400,700');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,400i,600i|Fira+Sans');
+
 
 /*font-family: 'Cormorant Garamond', serif;*/
 /*font-family: 'Fira Sans', sans-serif;*/
@@ -8,6 +9,7 @@
 
 body {
   font-family: 'Fira Sans', sans-serif;
+  font-size: 16px;
 }
 
 .navbar {
@@ -343,7 +345,7 @@ body {
 
 @media (min-width:1200px) {
   #footer-social {
-    font-size: 70px;
+    /*font-size: 70px;*/
   }
   #index-banner-text-headline {
     text-align: center;
