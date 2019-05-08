@@ -271,7 +271,7 @@ body {
   padding-top: 50px;
 }
 
-.contact-phone {
+#contact-phone {
   text-align: center;
   font-size: 40px;
   color: black;
@@ -279,6 +279,7 @@ body {
   font-style: italic;
   color: #b9b080;
   padding-bottom: 50px;
+  text-decoration: none;
 }
 
 #index-phone{
