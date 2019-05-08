@@ -21,7 +21,7 @@ body {
 }
 
 .logo-credit {
-  font-size: 5px;
+  /*font-size: 5px;*/
   color: grey;
   font-style: italic;
 }
@@ -33,14 +33,14 @@ body {
 .gold-text {
   color: #b9b080;
   font-family: 'Cormorant Garamond', serif;
-  font-size: 30px;
+  /*font-size: 30px;*/
   font-style: italic;
 }
 
 #index-banner-text-headline {
   text-align: center;
   margin-top: 35px;
-  font-size: 30px;
+  /*font-size: 30px;*/
 }
 
 #index-images-row {
@@ -54,7 +54,7 @@ body {
 }
 
 #index-banner-subtext {
-  font-size: 20px;
+  /*font-size: 20px;*/
   text-align: center;
   font-family: 'Fira Sans', sans-serif;
   color: #b9b080;
@@ -83,7 +83,7 @@ body {
 }
 
 .fa-phone {
-  font-size: 20px;
+  /*font-size: 20px;*/
   color: #b9b080;
 }
 
@@ -91,7 +91,7 @@ body {
   color: #b9b080;
   font-family: 'Cormorant Garamond', serif;
   font-style: italic;
-  font-size: 30px;
+  /*font-size: 30px;*/
   padding: 10px;
 }
 
@@ -157,21 +157,13 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/*.index-sub-image{*/
-/*    position: relative;*/
-/*    background-repeat: no-repeat;*/
-/*    background-size: cover;*/
-/*    height: 200px;*/
-/*    width: 100vw;*/
-/*}*/
-
 #index-container {
   background-color: #FCE8EC;
 }
 
 #footer {
   text-align: center;
-  font-size: 30px;
+  /*font-size: 30px;*/
 }
 
 #footer-social {
@@ -182,7 +174,7 @@ body {
 }
 
 .rory-credit {
-  font-size: 10px;
+  /*font-size: 10px;*/
   font-style: italic;
 }
 
@@ -190,7 +182,7 @@ body {
   font-family: 'Cormorant Garamond', serif;
   font-style: italic;
   color: #b9b080;
-  font-size: 40px;
+  /*font-size: 40px;*/
 }
 
 .imagescol {
@@ -210,7 +202,7 @@ body {
 
 .gallery-headline {
   text-align: center;
-  font-size: 40px;
+  /*font-size: 40px;*/
   color: black;
   font-family: 'Cormorant Garamond', serif;
   font-style: italic;
@@ -225,7 +217,7 @@ body {
 
 .prices-heading {
   text-align: center;
-  font-size: 40px;
+  /*font-size: 40px;*/
   color: black;
   font-family: 'Cormorant Garamond', serif;
   font-style: italic;
@@ -242,7 +234,7 @@ body {
 #testimonial-text {
   color: #b9b080;
   font-family: 'Cormorant Garamond', serif;
-  font-size: 30px;
+  /*font-size: 30px;*/
   font-style: italic;
   text-align: center;
   padding-top: 30px;
@@ -253,7 +245,7 @@ body {
 #contact-page-bottom-text {
   color: #b9b080;
   font-family: 'Cormorant Garamond', serif;
-  font-size: 30px;
+  /*font-size: 30px;*/
   font-style: italic;
   text-align: center;
   padding-top: 30px;
@@ -263,7 +255,7 @@ body {
 
 .contact-heading {
   text-align: center;
-  font-size: 40px;
+  /*font-size: 40px;*/
   color: black;
   font-family: 'Cormorant Garamond', serif;
   font-style: italic;
@@ -273,7 +265,7 @@ body {
 
 #contact-phone {
   text-align: center;
-  font-size: 40px;
+  /*font-size: 40px;*/
   color: black;
   font-family: 'Cormorant Garamond', serif;
   font-style: italic;
@@ -284,7 +276,7 @@ body {
 
 #prices-phone {
   text-align: center;
-  font-size: 40px;
+  /*font-size: 40px;*/
   color: black;
   font-family: 'Cormorant Garamond', serif;
   font-style: italic;
@@ -327,7 +319,7 @@ body {
 
 @media (min-width:768px) {
   #footer-social {
-    font-size: 50px;
+    /*font-size: 50px;*/
   }
   .gallery-images {
     height: 200px;
@@ -356,7 +348,7 @@ body {
   #index-banner-text-headline {
     text-align: center;
     margin-top: 60px;
-    font-size: 70px;
+    /*font-size: 70px;*/
   }
 
   #index-info-section {
@@ -372,7 +364,7 @@ body {
   }
 
   #index-banner-subtext {
-    font-size: 30px;
+    /*font-size: 30px;*/
     text-align: center;
     font-family: 'Fira Sans', sans-serif;
     color: #b9b080;
@@ -394,7 +386,7 @@ body {
 
 @media (min-width:1600px) {
   #footer-social {
-    font-size: 70px;
+    /*font-size: 70px;*/
   }
 
 }
