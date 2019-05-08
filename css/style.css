@@ -23,10 +23,9 @@ body {
   text-align: center;
 }
 
-.headings-subtext{
+.heading-subtext{
   font-size: 1.25rem;
-  font-family: 'Cormorant Garamond', serif;
-  font-style: italic;
+  font-family: 'Fira Sans', sans-serif;
   color: #b9b080;
   text-align: center;
 }
@@ -81,9 +80,9 @@ body {
   color: #b9b080;
 }
 
-#index-banner {
-  height: 180px;
+.text-banner{
   background-color: #FCE8EC;
+  padding: 40px;
 }
 
 .index-images {
