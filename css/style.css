@@ -178,9 +178,9 @@ body {
 }
 
 .footer-social {
-  padding: 10px 0px 0px 0px;
+  font-size: 3rem;
+  padding: 15px;
   list-style: none;
-  display: inline;
   color: #b9b080;
 }
 
