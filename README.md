@@ -65,6 +65,12 @@ As a returning visitor to the website, who has already decided to contact the ar
 
 
 
+##### Credits
+
+* [Freepik](https://www.freepik.com/)
+
+
+
 ##### Inspiration
 
 The following websites provided some inital ideas an inspiration for the wireframes:
