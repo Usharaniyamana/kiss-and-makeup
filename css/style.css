@@ -281,6 +281,11 @@ body {
   padding-bottom: 50px;
 }
 
+#index-phone{
+  text-align: center;
+  color: #b9b080;
+}
+
 .request-quote-form {
   font-family: 'Fira Sans', sans-serif;
 }
