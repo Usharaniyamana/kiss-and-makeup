@@ -142,14 +142,6 @@ body {
 }
 
 
-.index-info-text {
-  text-align: center;
-  background-color: white;
-  padding: 20px;
-  border: 2px solid #b9b080;
-  font-family: 'Fira Sans' serif;
-}
-
 .info-text-box{
   text-align: center;
   background-color: white;
@@ -158,20 +150,14 @@ body {
   font-family: 'Fira Sans' serif;
 }
 
-#prices-info-text {
-  background-color: white;
-  padding: 10px 10px 10px 10px;
-  border: 2px solid #b9b080;
-  font-family: 'Fira Sans' serif;
+#contact-text-box{
+  color: #b9b080;
 }
 
-#contact-info-text {
-  width: 800px;
-  background-color: white;
-  padding: 10px 10px 10px 10px;
-  border: 2px solid #b9b080;
-  font-family: 'Fira Sans' serif;
+#request-quote-form{
+  width: 60vw
 }
+
 
 .btn-custom {
   background-color: hsl(54, 38%, 47%) !important;
