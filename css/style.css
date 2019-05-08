@@ -72,6 +72,24 @@ body {
 }
 
 
+.btn-custom {
+  background-color: hsl(54, 38%, 47%) !important;
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#a59c4a", endColorstr="#a59c4a");
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#a59c4a), to(#a59c4a));
+  background-image: -moz-linear-gradient(top, #a59c4a, #a59c4a);
+  background-image: -ms-linear-gradient(top, #a59c4a, #a59c4a);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #a59c4a), color-stop(100%, #a59c4a));
+  background-image: -webkit-linear-gradient(top, #a59c4a, #a59c4a);
+  background-image: -o-linear-gradient(top, #a59c4a, #a59c4a);
+  background-image: linear-gradient(#a59c4a, #a59c4a);
+  border-color: #a59c4a #a59c4a hsl(54, 38%, 47%);
+  color: #fff !important;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.00);
+  -webkit-font-smoothing: antialiased;
+}
+
+
 
 
 
@@ -158,6 +176,13 @@ body {
   font-family: 'Fira Sans' serif;
 }
 
+
+
+
+
+
+/*Contact Page Specific ID's*/
+
 #contact-text-box{
   color: #b9b080;
 }
@@ -167,22 +192,6 @@ body {
 }
 
 
-.btn-custom {
-  background-color: hsl(54, 38%, 47%) !important;
-  background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#a59c4a", endColorstr="#a59c4a");
-  background-image: -khtml-gradient(linear, left top, left bottom, from(#a59c4a), to(#a59c4a));
-  background-image: -moz-linear-gradient(top, #a59c4a, #a59c4a);
-  background-image: -ms-linear-gradient(top, #a59c4a, #a59c4a);
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #a59c4a), color-stop(100%, #a59c4a));
-  background-image: -webkit-linear-gradient(top, #a59c4a, #a59c4a);
-  background-image: -o-linear-gradient(top, #a59c4a, #a59c4a);
-  background-image: linear-gradient(#a59c4a, #a59c4a);
-  border-color: #a59c4a #a59c4a hsl(54, 38%, 47%);
-  color: #fff !important;
-  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.00);
-  -webkit-font-smoothing: antialiased;
-}
 
 #index-container {
   background-color: #FCE8EC;
@@ -227,16 +236,13 @@ footer{
   height: 100px;
 }
 
-#bottom-image-index img {
-  width: 100%;
-  border: 2px solid #b9b080;
+#bottom-index-image{
+  width: 99vw;
 }
 
-#bottom-image-row {
-  padding: 20px 10px 20px 10px;
-  margin-bottom: 10px;
-  background-color: #FCE8EC;
-}
+
+
+
 
 .gallery-headline {
   text-align: center;
