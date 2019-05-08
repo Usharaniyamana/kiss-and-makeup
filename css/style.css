@@ -1,12 +1,12 @@
+    /*Fonts*/
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,400i,600i|Fira+Sans');
-
-
 /*font-family: 'Cormorant Garamond', serif;*/
 /*font-family: 'Fira Sans', sans-serif;*/
-
 /*font-family: 'Playfair Display', serif;*/
 /*font-family: 'Source Sans Pro', sans-serif;*/
 
+
+  /*Layout*/
 html{
   font-size: 16px;
 }
@@ -14,6 +14,9 @@ html{
 body {
   font-family: 'Fira Sans', sans-serif;
 }
+
+
+/*Cross-Page Classes*/
 
 .headings{
   font-size: 2rem;
@@ -40,12 +43,6 @@ body {
   height: 40px;
 }
 
-.logo-credit {
-  /*font-size: 5px;*/
-  color: grey;
-  font-style: italic;
-}
-
 #navbarSupportedContent {
   text-align: center;
 }
@@ -53,7 +50,7 @@ body {
 .gold-text {
   color: #b9b080;
   font-family: 'Cormorant Garamond', serif;
-  /*font-size: 30px;*/
+  font-size: 2rem;
   font-style: italic;
 }
 
