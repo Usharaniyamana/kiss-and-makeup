@@ -291,42 +291,18 @@ footer{
   background-color: #2d313c;
 }
 
-.contact-heading {
+.phone-number{
   text-align: center;
-  /*font-size: 40px;*/
-  color: black;
+  color: #b9b080;
   font-family: 'Cormorant Garamond', serif;
   font-style: italic;
-  color: #b9b080;
-  padding-top: 50px;
 }
 
-#contact-phone {
-  text-align: center;
-  /*font-size: 40px;*/
-  color: black;
-  font-family: 'Cormorant Garamond', serif;
-  font-style: italic;
-  color: #b9b080;
-  padding-bottom: 50px;
+.phone-number:hover{
   text-decoration: none;
-}
-
-#prices-phone {
-  text-align: center;
-  /*font-size: 40px;*/
-  color: black;
-  font-family: 'Cormorant Garamond', serif;
-  font-style: italic;
-  color: #b9b080;
-  padding-bottom: 50px;
-  text-decoration: none;
-}
-
-#index-phone{
-  text-align: center;
   color: #b9b080;
 }
+
 
 .request-quote-form {
   font-family: 'Fira Sans', sans-serif;
