@@ -7,18 +7,29 @@
 /*font-family: 'Playfair Display', serif;*/
 /*font-family: 'Source Sans Pro', sans-serif;*/
 
+html{
+  font-size: 16px;
+}
+
 body {
   font-family: 'Fira Sans', sans-serif;
-  font-size: 16px;
 }
 
 .headings{
   font-size: 2rem;
   font-family: 'Cormorant Garamond', serif;
   font-style: italic;
-  color: #b9b080
+  color: #b9b080;
+  text-align: center;
 }
 
+.headings-subtext{
+  font-size: 1.25rem;
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  color: #b9b080;
+  text-align: center;
+}
 
 .navbar {
   background-color: black;
