@@ -25,8 +25,7 @@ body, html {
   height: 100%;
 }
 
-.parallax-index{
-  background-image: url("https://images.pexels.com/photos/936554/pexels-photo-936554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+.parallax{
   height: 100vh; 
   background-attachment: fixed;
   background-position: center;
@@ -34,6 +33,18 @@ body, html {
   background-size: cover;
 }
 
+#parallax-index{
+  background-image: url("https://images.pexels.com/photos/936554/pexels-photo-936554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
+#parallax-gallery{
+    background-image: url("https://images.pexels.com/photos/2106463/pexels-photo-2106463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
+#parallax-prices{
+    background-image: url("https://images.pexels.com/photos/992711/pexels-photo-992711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
+#parallax-contact{
+    background-image: url("https://images.pexels.com/photos/1308582/pexels-photo-1308582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
 
 
 /*Cross-Page Classes and ID's*/  
