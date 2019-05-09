@@ -128,8 +128,6 @@ body {
 }
 
 .gallery-images {
-  height: 200px;
-  display: block;
   margin: auto;
   margin-top: 30px;
   border: 2px solid #b9b080;
@@ -242,23 +240,6 @@ footer{
 
 
 
-
-
-.gallery-headline {
-  text-align: center;
-  /*font-size: 40px;*/
-  color: black;
-  font-family: 'Cormorant Garamond', serif;
-  font-style: italic;
-  color: #b9b080;
-  padding-top: 100px;
-  padding-bottom: 100px;
-}
-
-.gallery-banner {
-  background-color: #FCE8EC;
-}
-
 .prices-heading {
   text-align: center;
   /*font-size: 40px;*/
@@ -321,58 +302,9 @@ footer{
 
 
 
-
-
-
-
-
-
 .request-quote-form {
   font-family: 'Fira Sans', sans-serif;
 }
-
-@media (min-width:576px) {
-  .gallery-images {
-    height: 300px;
-    display: block;
-    margin: auto;
-    margin-top: 30px;
-    border: 2px solid #b9b080;
-  }
-}
-
-@media (min-width:768px) {
-  .gallery-images {
-    height: 200px;
-    display: block;
-    margin: auto;
-    margin-top: 30px;
-    border: 2px solid #b9b080;
-  }
-}
-
-@media (min-width:992px) {
-
-  .gallery-images {
-    height: 300px;
-    display: block;
-    margin: auto;
-    margin-top: 30px;
-    border: 2px solid #b9b080;
-  }
-}
-
-@media (min-width:1200px) {
-  .gallery-images {
-    height: 350px;
-    display: block;
-    margin: auto;
-    margin-top: 30px;
-    border: 2px solid #b9b080;
-  }
-}
-
-
 
 
 
