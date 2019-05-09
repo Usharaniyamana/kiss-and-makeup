@@ -323,11 +323,27 @@ footer{
 }
 
 
+@media (min-width: 601px) {
+  #parallax-index{
+      background-image: url("https://images.pexels.com/photos/1308578/pexels-photo-1308578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  }
+  #parallax-gallery{
+      background-image: url("https://images.pexels.com/photos/2124722/pexels-photo-2124722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  }
+  #parallax-prices{
+      background-image: url("https://images.pexels.com/photos/1185617/pexels-photo-1185617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  }
+  #parallax-contact{
+      background-image: url("https://images.pexels.com/photos/1308881/pexels-photo-1308881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");");
+}
+}
+
 
 @media only screen and (max-device-width: 1366px) {
   .parallax {
     background-attachment: scroll;
   }
+
 } 
 
 
