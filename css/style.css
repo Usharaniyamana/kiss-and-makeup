@@ -297,6 +297,11 @@ footer{
   background-color: #2d313c;
 }
 
+
+
+     /*Phone Numbers*/
+     
+     
 .phone-number{
   font-size: 1.25rem;
   text-align: center;
@@ -315,15 +320,18 @@ footer{
 }
 
 
+
+
+
+
+
+
+
 .request-quote-form {
   font-family: 'Fira Sans', sans-serif;
 }
 
 @media (min-width:576px) {
-  #social-heading {
-    margin-bottom: 30px;
-  }
-
   .gallery-images {
     height: 300px;
     display: block;
@@ -355,36 +363,6 @@ footer{
 }
 
 @media (min-width:1200px) {
-  #index-banner-text-headline {
-    text-align: center;
-    margin-top: 60px;
-    /*font-size: 70px;*/
-  }
-
-  #index-info-section {
-    margin-top: 100px;
-    text-align: center;
-    background-color: #FCE8EC;
-  }
-
-  #prices-info-section {
-    text-align: center;
-    padding: 20px 20px 20px 20px;
-    background-color: #FCE8EC;
-  }
-
-  #index-banner-subtext {
-    /*font-size: 30px;*/
-    text-align: center;
-    font-family: 'Fira Sans', sans-serif;
-    color: #b9b080;
-  }
-
-  #index-banner {
-    height: 250px;
-    background-color: #FCE8EC;
-  }
-
   .gallery-images {
     height: 350px;
     display: block;
