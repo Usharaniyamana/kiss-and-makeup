@@ -21,6 +21,19 @@ body {
   font-family: 'Fira Sans', sans-serif;
 }
 
+body, html {
+  height: 100%;
+}
+
+.parallax-index{
+  background-image: url("https://images.pexels.com/photos/936554/pexels-photo-936554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  height: 100vh; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 
 
 /*Cross-Page Classes and ID's*/  
