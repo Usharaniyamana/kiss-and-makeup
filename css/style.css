@@ -34,7 +34,14 @@ body, html {
 }
 
 #parallax-index{
-  background-image: url("https://images.pexels.com/photos/999515/pexels-photo-999515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  /*background-image: url("https://images.pexels.com/photos/999515/pexels-photo-999515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");*/
+background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("https://images.pexels.com/photos/999515/pexels-photo-999515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+
 }
 #parallax-gallery{
     background-image: url("https://images.pexels.com/photos/2218558/pexels-photo-2218558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
@@ -45,6 +52,18 @@ body, html {
 #parallax-contact{
     background-image: url("https://images.pexels.com/photos/1253370/pexels-photo-1253370.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
 }
+
+
+.img-overlay{
+  position: relative;
+  padding-left: 30px;
+  top: 60%;
+  color: white;
+  font-size: 2rem;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+
 
 
 /*Cross-Page Classes and ID's*/  
@@ -59,9 +78,9 @@ body, html {
 
 .heading-subtext{
   font-size: 1.25rem;
-  font-family: 'Fira Sans', sans-serif;
   color: #b9b080;
   text-align: center;
+  font-family: 'Cormorant Garamond', serif;
 }
 
 .navbar {
@@ -323,6 +342,8 @@ footer{
 }
 
 
+
+
 @media (min-width: 601px) {
   #parallax-index{
       background-image: url("https://images.pexels.com/photos/1308578/pexels-photo-1308578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
@@ -334,7 +355,7 @@ footer{
       background-image: url("https://images.pexels.com/photos/1185617/pexels-photo-1185617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
   }
   #parallax-contact{
-      background-image: url("https://images.pexels.com/photos/1308881/pexels-photo-1308881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");");
+      background-image: url("https://images.pexels.com/photos/1308881/pexels-photo-1308881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
 }
 }
 
