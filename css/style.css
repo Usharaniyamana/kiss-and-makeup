@@ -1,16 +1,5 @@
 /*Fonts*/
-
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,400i,600i|Fira+Sans');
-/*font-family: 'Cormorant Garamond', serif;*/
-/*font-family: 'Fira Sans', sans-serif;*/
-/*font-family: 'Playfair Display', serif;*/
-/*font-family: 'Source Sans Pro', sans-serif;*/
-
-
-
-
-
-
 
 /*Layout*/
 html{
@@ -34,8 +23,7 @@ body, html {
 }
 
 #parallax-index{
-  /*background-image: url("https://images.pexels.com/photos/999515/pexels-photo-999515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");*/
-background-image: 
+    background-image: 
     linear-gradient(
       rgba(0, 0, 0, 0.2),
       rgba(0, 0, 0, 0.2)
@@ -44,7 +32,6 @@ background-image:
 
 }
 #parallax-gallery{
-    /*background-image: url("https://images.pexels.com/photos/2218558/pexels-photo-2218558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");*/
     background-image: 
     linear-gradient(
       rgba(0, 0, 0, 0.3),
@@ -54,7 +41,6 @@ background-image:
 
 }
 #parallax-prices{
-    /*background-image: url("https://images.pexels.com/photos/2109062/pexels-photo-2109062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");*/
     background-image: 
     linear-gradient(
       rgba(0, 0, 0, 0.2),
@@ -64,7 +50,6 @@ background-image:
 
 }
 #parallax-contact{
-    /*background-image: url("https://images.pexels.com/photos/1253370/pexels-photo-1253370.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");*/
     background-image: 
     linear-gradient(
       rgba(0, 0, 0, 0.2),
@@ -190,21 +175,12 @@ background-image:
   border: 2px solid #b9b080;
 }
 
+
+
+
 .fa-phone {
-  /*font-size: 20px;*/
+  font-size: 2rem;
   color: #b9b080;
-}
-
-.phone-number-index {
-  color: #b9b080;
-  font-family: 'Cormorant Garamond', serif;
-  font-style: italic;
-  /*font-size: 30px;*/
-  padding: 10px;
-}
-
-#landing-text {
-  text-align: center;
 }
 
 
@@ -247,16 +223,6 @@ background-image:
 }
 
 
-
-#index-container {
-  background-color: #FCE8EC;
-}
-
-
-
-
-
-
                                                                       /*Footer*/
 
 
@@ -283,29 +249,8 @@ footer{
 }
 
 
-
-
-
-
-.imagescol {
-  height: 100px;
-}
-
 #bottom-index-image{
   width: 99vw;
-}
-
-
-
-.prices-heading {
-  text-align: center;
-  /*font-size: 40px;*/
-  color: black;
-  font-family: 'Cormorant Garamond', serif;
-  font-style: italic;
-  color: #b9b080;
-  padding-top: 50px;
-  padding-bottom: 50px;
 }
 
 .prices-sub-text {
@@ -313,18 +258,7 @@ footer{
   text-align: center;
 }
 
-#testimonial-text {
-  color: #b9b080;
-  font-family: 'Cormorant Garamond', serif;
-  /*font-size: 30px;*/
-  font-style: italic;
-  text-align: center;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2d313c;
-}
-
-#contact-page-bottom-text {
+.testimonial-text {
   color: #b9b080;
   font-family: 'Cormorant Garamond', serif;
   /*font-size: 30px;*/
@@ -341,7 +275,7 @@ footer{
      
      
 .phone-number{
-  font-size: 1.25rem;
+  font-size: 2rem;
   text-align: center;
   color: #b9b080;
   font-family: 'Cormorant Garamond', serif;
@@ -362,9 +296,6 @@ footer{
 .request-quote-form {
   font-family: 'Fira Sans', sans-serif;
 }
-
-
-
 
 @media (min-width: 601px) {
 
@@ -405,20 +336,6 @@ background-image:
 }
 
 }
-
-
-  /*    background-image: url("https://images.pexels.com/photos/1308578/pexels-photo-1308578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");*/
-  /*}*/
-/*  #parallax-gallery{*/
-      /*background-image: url("https://images.pexels.com/photos/2124722/pexels-photo-2124722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");*/
-/*  }*/
-/*  #parallax-prices{*/
-      /*background-image: url("https://images.pexels.com/photos/1185617/pexels-photo-1185617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");*/
-/*  }*/
-/*  #parallax-contact{*/
-      /*background-image: url("https://images.pexels.com/photos/1308881/pexels-photo-1308881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");*/
-/*}*/
-/*}*/
 
 
 @media only screen and (max-device-width: 1366px) {
