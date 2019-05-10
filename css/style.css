@@ -1,363 +1,273 @@
 /*Fonts*/
+
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,400i,600i|Fira+Sans');
 
 /*Layout*/
-html{
-  font-size: 16px;
+
+html {
+	font-size: 16px;
+	height: 100%;
 }
 
 body {
-  font-family: 'Fira Sans', sans-serif;
+	font-family: 'Fira Sans', sans-serif;
+	height: 100%;
 }
 
-body, html {
-  height: 100%;
+.parallax {
+	height: 100vh;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
-.parallax{
-  height: 100vh; 
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+#parallax-index {
+	background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("https://images.pexels.com/photos/999515/pexels-photo-999515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
 }
 
-#parallax-index{
-    background-image: 
-    linear-gradient(
-      rgba(0, 0, 0, 0.2),
-      rgba(0, 0, 0, 0.2)
-    ),
-    url("https://images.pexels.com/photos/999515/pexels-photo-999515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
-
+#parallax-gallery {
+	background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("https://images.pexels.com/photos/2218558/pexels-photo-2218558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
 }
-#parallax-gallery{
-    background-image: 
-    linear-gradient(
-      rgba(0, 0, 0, 0.3),
-      rgba(0, 0, 0, 0.3)
-    ),
-    url("https://images.pexels.com/photos/2218558/pexels-photo-2218558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
 
+#parallax-prices {
+	background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("https://images.pexels.com/photos/2109062/pexels-photo-2109062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
 }
-#parallax-prices{
-    background-image: 
-    linear-gradient(
-      rgba(0, 0, 0, 0.2),
-      rgba(0, 0, 0, 0.2)
-    ),
-    url("https://images.pexels.com/photos/2109062/pexels-photo-2109062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
 
+#parallax-contact {
+	background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("https://images.pexels.com/photos/1253370/pexels-photo-1253370.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
 }
-#parallax-contact{
-    background-image: 
-    linear-gradient(
-      rgba(0, 0, 0, 0.2),
-      rgba(0, 0, 0, 0.2)
-    ),
-    url("https://images.pexels.com/photos/1253370/pexels-photo-1253370.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
 
+.img-overlay {
+	position: relative;
+	padding-left: 30px;
+	padding-right: 30px;
+	top: 50%;
+	color: white;
+	font-size: 2rem;
+	font-family: 'Cormorant Garamond', serif;
 }
 
 
-.img-overlay{
-  position: relative;
-  padding-left: 30px;
-  padding-right: 30px;
-  top: 50%;
-  color: white;
-  font-size: 2rem;
-  font-family: 'Cormorant Garamond', serif;
+/*Cross-Page Classes and ID's*/
+
+.headings {
+	font-size: 2rem;
+	font-family: 'Cormorant Garamond', serif;
+	font-style: italic;
+	color: #b9b080;
+	text-align: center;
 }
 
-
-
-
-/*Cross-Page Classes and ID's*/  
-
-.headings{
-  font-size: 2rem;
-  font-family: 'Cormorant Garamond', serif;
-  font-style: italic;
-  color: #b9b080;
-  text-align: center;
-}
-
-.heading-subtext{
-  font-size: 1.25rem;
-  color: #b9b080;
-  text-align: center;
-  font-family: 'Cormorant Garamond', serif;
+.heading-subtext {
+	font-size: 1.25rem;
+	color: #b9b080;
+	text-align: center;
+	font-family: 'Cormorant Garamond', serif;
 }
 
 .navbar {
-  background-color: black;
-  font-family: 'Cormorant Garamond', serif;
-  font-style: italic;
+	background-color: black;
+	font-family: 'Cormorant Garamond', serif;
+	font-style: italic;
 }
 
 .logo {
-  height: 40px;
+	height: 40px;
 }
 
 #navbarSupportedContent {
-  text-align: center;
+	text-align: center;
 }
 
 .gold-text {
-  color: #b9b080;
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 2rem;
-  font-style: italic;
+	color: #b9b080;
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 2rem;
+	font-style: italic;
 }
 
-.info-text-box{
-  text-align: center;
-  background-color: white;
-  padding: 20px;
-  border: 2px solid #b9b080;
-  font-family: 'Fira Sans' serif;
+.info-text-box {
+	text-align: center;
+	background-color: white;
+	padding: 20px;
+	border: 2px solid #b9b080;
+	font-family: 'Fira Sans' serif;
 }
-
 
 .btn-custom {
-  background-color: hsl(54, 38%, 47%) !important;
-  background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#a59c4a", endColorstr="#a59c4a");
-  background-image: -khtml-gradient(linear, left top, left bottom, from(#a59c4a), to(#a59c4a));
-  background-image: -moz-linear-gradient(top, #a59c4a, #a59c4a);
-  background-image: -ms-linear-gradient(top, #a59c4a, #a59c4a);
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #a59c4a), color-stop(100%, #a59c4a));
-  background-image: -webkit-linear-gradient(top, #a59c4a, #a59c4a);
-  background-image: -o-linear-gradient(top, #a59c4a, #a59c4a);
-  background-image: linear-gradient(#a59c4a, #a59c4a);
-  border-color: #a59c4a #a59c4a hsl(54, 38%, 47%);
-  color: #fff !important;
-  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.00);
-  -webkit-font-smoothing: antialiased;
+	background-color: hsl(54, 38%, 47%) !important;
+	background-repeat: repeat-x;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#a59c4a", endColorstr="#a59c4a");
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#a59c4a), to(#a59c4a));
+	background-image: -moz-linear-gradient(top, #a59c4a, #a59c4a);
+	background-image: -ms-linear-gradient(top, #a59c4a, #a59c4a);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #a59c4a), color-stop(100%, #a59c4a));
+	background-image: -webkit-linear-gradient(top, #a59c4a, #a59c4a);
+	background-image: -o-linear-gradient(top, #a59c4a, #a59c4a);
+	background-image: linear-gradient(#a59c4a, #a59c4a);
+	border-color: #a59c4a #a59c4a hsl(54, 38%, 47%);
+	color: #fff !important;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.00);
+	-webkit-font-smoothing: antialiased;
 }
 
-
-
-
-
-
-
-
 #index-images-row {
-  background-color: #2d313c;
-  padding-bottom: 30px;
+	background-color: #2d313c;
+	padding-bottom: 30px;
 }
 
 #gallery-images-row {
-  background-color: #2d313c;
-  padding-bottom: 30px;
+	background-color: #2d313c;
+	padding-bottom: 30px;
 }
 
-
-.text-banner{
-  background-color: #FCE8EC;
-  padding: 40px;
+.text-banner {
+	background-color: #FCE8EC;
+	padding: 40px;
 }
 
 .index-images {
-  display: block;
-  margin: auto;
-  max-width: 100%;
-  height: auto;
-  margin-top: 30px;
-  border: 2px solid #b9b080;
+	display: block;
+	margin: auto;
+	max-width: 100%;
+	height: auto;
+	margin-top: 30px;
+	border: 2px solid #b9b080;
 }
 
 .gallery-images {
-  margin: auto;
-  margin-top: 30px;
-  border: 2px solid #b9b080;
+	margin: auto;
+	margin-top: 30px;
+	border: 2px solid #b9b080;
 }
-
-
-
 
 .fa-phone {
-  font-size: 2rem;
-  color: #b9b080;
+	font-size: 2rem;
+	color: #b9b080;
 }
 
-
-.main-page-image{
-  padding-top: 60px;
-  width: 99vw;
+.main-page-image {
+	padding-top: 60px;
+	width: 99vw;
 }
 
 #prices-info-section {
-  background-color: #FCE8EC;
+	background-color: #FCE8EC;
 }
 
-.text-banner{
-  background-color: #FCE8EC;
-  padding: 40px;
+.text-banner {
+	background-color: #FCE8EC;
+	padding: 40px;
 }
 
-
-.info-text-box{
-  text-align: center;
-  background-color: white;
-  padding: 20px;
-  border: 2px solid #b9b080;
-  font-family: 'Fira Sans' serif;
+.info-text-box {
+	text-align: center;
+	background-color: white;
+	padding: 20px;
+	border: 2px solid #b9b080;
+	font-family: 'Fira Sans' serif;
 }
-
-
-
-
 
 
 /*Contact Page Specific ID's*/
 
-#contact-text-box{
-  color: #b9b080;
+#contact-text-box {
+	color: #b9b080;
 }
 
-#request-quote-form{
-  width: 60vw
+#request-quote-form {
+	width: 60vw
 }
 
 
-                                                                      /*Footer*/
+/*Footer*/
 
-
-footer{
-  text-align: center;
-  font-size: 1rem;
+footer {
+	text-align: center;
+	font-size: 1rem;
 }
 
 .footer-social {
-  font-size: 3rem;
-  padding: 15px;
-  list-style: none;
-  color: #b9b080;
+	font-size: 3rem;
+	padding: 15px;
+	list-style: none;
+	color: #b9b080;
 }
 
-.footer-link{
-  color: black;
-  padding: 5px;
+.footer-link {
+	color: black;
+	padding: 5px;
 }
 
 .rory-credit {
-  /*font-size: 10px;*/
-  font-style: italic;
+	/*font-size: 10px;*/
+	font-style: italic;
 }
 
-
-#bottom-index-image{
-  width: 99vw;
+#bottom-index-image {
+	width: 99vw;
 }
 
 .prices-sub-text {
-  font-family: 'Fira Sans', sans-serif;
-  text-align: center;
+	font-family: 'Fira Sans', sans-serif;
+	text-align: center;
 }
 
 .testimonial-text {
-  color: #b9b080;
-  font-family: 'Cormorant Garamond', serif;
-  /*font-size: 30px;*/
-  font-style: italic;
-  text-align: center;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2d313c;
+	color: #b9b080;
+	font-family: 'Cormorant Garamond', serif;
+	/*font-size: 30px;*/
+	font-style: italic;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: #2d313c;
 }
 
 
+/*Phone Numbers*/
 
-     /*Phone Numbers*/
-     
-     
-.phone-number{
-  font-size: 2rem;
-  text-align: center;
-  color: #b9b080;
-  font-family: 'Cormorant Garamond', serif;
-  font-style: italic;
+.phone-number {
+	font-size: 2rem;
+	text-align: center;
+	color: #b9b080;
+	font-family: 'Cormorant Garamond', serif;
+	font-style: italic;
 }
 
-.phone-number:hover{
-  text-decoration: none;
-  color: #b9b080;
+.phone-number:hover {
+	text-decoration: none;
+	color: #b9b080;
 }
 
-#phone-number-prices{
-  font-size: 2rem;
+#phone-number-prices {
+	font-size: 2rem;
 }
-
-
 
 .request-quote-form {
-  font-family: 'Fira Sans', sans-serif;
+	font-family: 'Fira Sans', sans-serif;
 }
 
 @media (min-width: 601px) {
-
-#parallax-index{
-background-image: 
-    linear-gradient(
-      rgba(0, 0, 0, 0.1),
-      rgba(0, 0, 0, 0.1)
-    ),
-    url("https://images.pexels.com/photos/1308578/pexels-photo-1308578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+	#parallax-index {
+		background-image: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("https://images.pexels.com/photos/1308578/pexels-photo-1308578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+	}
+	#parallax-gallery {
+		background-image: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("https://images.pexels.com/photos/2124722/pexels-photo-2124722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	}
+	#parallax-prices {
+		background-image: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("https://images.pexels.com/photos/1185617/pexels-photo-1185617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+	}
+	#parallax-contact {
+		background-image: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("https://images.pexels.com/photos/1308881/pexels-photo-1308881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	}
 }
-
-#parallax-gallery{
-background-image: 
-    linear-gradient(
-      rgba(0, 0, 0, 0.1),
-      rgba(0, 0, 0, 0.1)
-    ),
-    url("https://images.pexels.com/photos/2124722/pexels-photo-2124722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
-}
-
-#parallax-prices{
-background-image: 
-    linear-gradient(
-      rgba(0, 0, 0, 0.1),
-      rgba(0, 0, 0, 0.1)
-    ),
-    url("https://images.pexels.com/photos/1185617/pexels-photo-1185617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
-}
-
-#parallax-contact{
-background-image: 
-    linear-gradient(
-      rgba(0, 0, 0, 0.1),
-      rgba(0, 0, 0, 0.1)
-    ),
-    url("https://images.pexels.com/photos/1308881/pexels-photo-1308881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
-}
-
-}
-
 
 @media only screen and (max-device-width: 1366px) {
-  .parallax {
-    background-attachment: scroll;
-  }
-
-} 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	.parallax {
+		background-attachment: scroll;
+	}
+}
+COPY TO CLIPBOARD	 SELECT ALL
+© FreeFormatter.com - FREEFORMATTER is a d/b/a of 10174785 Canada
