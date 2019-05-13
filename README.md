@@ -1,6 +1,24 @@
 # Kiss & Makeup
 
- Asian Hair and Makeup Bridal Website.
+A stylish marketing website designed to promote and generate business for the clients Asian bridal hair and makeup business. The client is based within central London and is targeting business within that area.
+The website features include a landing page, gallery of the artists work. an estimated prices page and a contact pager containing a request quote form which can be used by a consumer to get an idea of what it will cost.  
+  
+Due to the nature of the business high quality images and examples of the artists work are key in impulsing a consumer to call the number r request a quote. As such the request quote button is more prominant than other pages, and the contaqct number appears reguarly throughout the site.    
+
+The business goals of the website are:
+
+* Provide brand awareness for the business.
+* Showcase the artists work in one asy to reach destination.
+* Generate telephone leads and email leads which can be converted into bookings.
+* Guide customers towards either the phone number or the request quote form by using good UX.
+
+
+Customer goals include:
+
+* Getting design ideas for their own weddings.
+* Viewing the artists work to  make an informed decision on whether it is the right service for them.
+* Easy to contact the artists either cia phone or via the request quote form.
+* Simple, elgant process designed to counteract the stresses of getting married!
 
 
 
@@ -54,10 +72,8 @@ As a returning visitor to the website, who has already decided to contact the ar
 
 1. HTML
 1. CSS
-1. Fontawesome
 1. Boostrap
 1. Jquery
-1. Cloud9
 1. https://charliepark.org/bootstrap_buttons/ - This generates different coloured buttons for use with Bootstrap 4
 1. Codebeautify - https://codebeautify.org/css-beautify-minify - This website tidies up html and css code, makes it run faster.
 1. Favicon
@@ -80,3 +96,32 @@ The following websites provided some inital ideas an inspiration for the wirefra
 * [Asian Wedding Directory](https://www.asianaweddingdirectory.co.uk/beauty)
 * [Boudoir Belle](http://www.makeupartistsouthampton.co.uk/professional-asian-indian-bridal-makeup-artist/)
 * [Amazing Face](https://amazing-face.co.uk/)
+
+
+
+### Deployment
+
+This project was developed using the Cloud9 IDE, committed to git and pushed to GitHub using the built in function within cloud9.
+
+To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
+
+1. Log into GitHub.
+2. From the list of repositories on the screen, select Rorywork/kiss-and-makeup
+3. Scroll down to the GitHub Pages section.
+4. Under Source click the drop-down menu labelled None and select Master Branch
+5. On selecting Master Branch the page is automatically refreshed, the website is now deployed.
+6. Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
+
+#### How to run this project locally
+To clone this project from GitHub:
+
+1. Follow this link to the Project GitHub repository.
+2. Under the repository name, click "Clone or download".
+3. In the Clone with HTTPs section, copy the clone URL for the repository.
+4. In your local IDE open Git Bash.
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type git clone, and then paste the URL you copied in Step 3.
+7. git clone https://github.com/USERNAME/REPOSITORY
+8. Press Enter. Your local clone will be created.
+9. Further reading and troubleshooting on cloning a repository from GitHub here.
+
