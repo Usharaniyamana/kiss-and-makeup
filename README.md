@@ -23,7 +23,7 @@ Customer goals include:
 
 
 
-### UX
+## UX
 
 #### Ideal client
 The ideal client for this business is:
@@ -76,17 +76,15 @@ As a returning visitor to the website, who has already decided to contact the ar
 [Contact/Request Quote](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Contact-Quote-Page.PNG)
 
 
-### Technologies Used
+## Technologies Used
 
-1. HTML
-1. CSS
-1. Boostrap
-1. Jquery
-1. https://charliepark.org/bootstrap_buttons/ - This generates different coloured buttons for use with Bootstrap 4
-1. Codebeautify - https://codebeautify.org/css-beautify-minify - This website tidies up html and css code, makes it run faster.
-1. Favicon
+* HTML
+* CSS
+* Boostrap
+* Jquery
+ 
 
-### Deployment
+## Deployment
 
 This project was developed using the Cloud9 IDE, committed to git and pushed to GitHub using the built in function within cloud9.
 
@@ -113,7 +111,7 @@ To clone this project from GitHub:
 9. Further reading and troubleshooting on cloning a repository from GitHub here.
 
 
-#### Credits
+## Credits
 
 #### Media
 
@@ -122,9 +120,14 @@ To clone this project from GitHub:
 * [Pexels](https://www.pexels.com/) provided the main images on each page, both in mobile, tablet and desktop view.
 * [Catering Sensations](https://www.cateringsensacions.com/) provided the image at the bottom of the index page before the footer.
 
+#### Code
+
+* CSS code for the gold bootstrap button was provided by the [Charlie Park](https://charliepark.org/bootstrap_buttons/) generator.
+* HTML code for the social media icons were provided by [Fontawesome](https://fontawesome.com/).
+* HTML code for the favicon was provided by [Favicon](https://favicon-generator.org).
 
 
-##### Inspiration
+#### Inspiration
 
 The following websites provided some inital ideas an inspiration for the wireframes:
 
@@ -133,3 +136,14 @@ The following websites provided some inital ideas an inspiration for the wirefra
 * [Asian Wedding Directory](https://www.asianaweddingdirectory.co.uk/beauty)
 * [Boudoir Belle](http://www.makeupartistsouthampton.co.uk/professional-asian-indian-bridal-makeup-artist/)
 * [Amazing Face](https://amazing-face.co.uk/)
+
+#### Acknowledgements
+
+* Janaki Rai the client provided me with useful feedback of how she would like the website to work.
+* My tutor Simen Daehlin provided useful links, tips and advice on improving the website.
+
+
+#### Disclaimer
+The content of this website is currently for educational purposes only.
+
+
