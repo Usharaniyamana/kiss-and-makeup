@@ -86,27 +86,6 @@ As a returning visitor to the website, who has already decided to contact the ar
 1. Codebeautify - https://codebeautify.org/css-beautify-minify - This website tidies up html and css code, makes it run faster.
 1. Favicon
 
-
-
-
-##### Credits
-
-* [Freepik](https://www.freepik.com/)
-
-
-
-##### Inspiration
-
-The following websites provided some inital ideas an inspiration for the wireframes:
-
-* [Portait Artist - Anna Gilhespy](https://ajgreaves.github.io/portrait-artist/)
-* [Tara Sanger](http://www.tarasangermakeup.co.uk/)
-* [Asian Wedding Directory](https://www.asianaweddingdirectory.co.uk/beauty)
-* [Boudoir Belle](http://www.makeupartistsouthampton.co.uk/professional-asian-indian-bridal-makeup-artist/)
-* [Amazing Face](https://amazing-face.co.uk/)
-
-
-
 ### Deployment
 
 This project was developed using the Cloud9 IDE, committed to git and pushed to GitHub using the built in function within cloud9.
@@ -133,3 +112,24 @@ To clone this project from GitHub:
 8. Press Enter. Your local clone will be created.
 9. Further reading and troubleshooting on cloning a repository from GitHub here.
 
+
+#### Credits
+
+#### Media
+
+* Photos used within the gallery were provided by the makeup artist Janaki Rai.
+* [Freepik](https://www.freepik.com/) provided the Lips Logo.
+* [Pexels](https://www.pexels.com/) provided the main images on each page, both in mobile, tablet and desktop view.
+* [Catering Sensations](https://www.cateringsensacions.com/) provided the image at the bottom of the index page before the footer.
+
+
+
+##### Inspiration
+
+The following websites provided some inital ideas an inspiration for the wireframes:
+
+* [Portait Artist - Anna Gilhespy](https://ajgreaves.github.io/portrait-artist/)
+* [Tara Sanger](http://www.tarasangermakeup.co.uk/)
+* [Asian Wedding Directory](https://www.asianaweddingdirectory.co.uk/beauty)
+* [Boudoir Belle](http://www.makeupartistsouthampton.co.uk/professional-asian-indian-bridal-makeup-artist/)
+* [Amazing Face](https://amazing-face.co.uk/)
