@@ -59,7 +59,15 @@ As a potential client, I want a rough idea of the prices so I can decide if it i
 As a potential client I want to follow the artist on social media, so I can keep up with her latest makeovers and decide on a design for myself.  
 As an interested client, I want to understand how I can contact the artist and how I can make a booking.  
 As an interested client, I want a simple quote request form that only captures information that is relevant and necessary.  
-As a returning visitor to the website, who has already decided to contact the artist, I want to be able to request a quote or get back in touch should I have a new requirement.  
+As a returning visitor to the website, who has already decided to contact the artist, I want to be able to request a quote or get back in touch should I have a new requirement. 
+
+#### Initial Sketches
+[Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Landing-Page.jpg)  
+[Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Gallery_Page.jpg)  
+[Pricing](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Prices-Page.jpg)  
+[Contact/Request Quote](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Contact-Page.jpg)  
+[Mobile Concept](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Mobile-Concept.jpg)
+
 
 #### Wireframe mockups
 [Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Landing-Page.PNG)  
