@@ -63,7 +63,7 @@ As a returning visitor to the website, who has already decided to contact the ar
 
 #### Initial Sketches
 [Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Landing-Page.jpg)  
-[Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Gallery_Page.jpg)  
+[Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Gallery-Page.jpg)  
 [Pricing](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Prices-Page.jpg)  
 [Contact/Request Quote](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Contact-Page.jpg)  
 [Mobile Concept](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Mobile-Concept.jpg)
