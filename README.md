@@ -85,10 +85,51 @@ Tablet:
 [Pricing](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Prices-Tablet.PNG)  
 [Contact/Request Quote](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Contact-Page-Tablet.PNG)
 
-PC:
+Mobile:
 
 [Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Landing-Page-Mobile.PNG)  
 [Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Gallery-Page-Mobile.PNG)  
+
+## Features
+
+Each page has a responsive navigation bar which is used to move around the various pages in the site. This navigation bar contains the Lips Logo on the left and the Kiss and Makeup branding text.
+This bar also contains a bootstrap button which can be used to go to the request quote form. There is a main image on each page which is fully responsive, the image changes when it reaches the 
+mobile breakpoint to one which looks better on mobile sized devices. On top of this is an image overlay which contains a quote or some text from the artist which is appropriate to the page being 
+viewed.  Each page also contains a pink banner with gold text overlayed on top, this tells the user what the page is for. 
+
+Each page also contains a responsive footer which uses icons to link to the clients social media. This is useful as a consumer can keep up to date with the latest designs and engage more with the
+artist. It also contains links to my Github so anyone interested in website design knows where to find my work, as well as link to the privacy policy which will be used to comply with GDPR in the future.
+The final footer link is required to use the Lips Logo and credits the creator for their work. This is useful as anyone who likes the logo can check out more of their designs and is a good business practice. 
+
+All information text and images from the artists are styled with a gold border to make them stand out, this is seen frequently throughout the site. 
+
+#### Home
+
+The home page contains an image banner which is fully reponsive. Laying out 4 of the artists images horizontally on medium to large screen sizes, and displays them vertically on mobile. 
+The purpose of this is to initially impulse the user about the quality of the service on offer and provide a few key examples. Below this is an information text box which contains welcome text
+explaining a little more about who the artist is. This allows the user to learn more about the service, below this is a contact number which when pressed will ring the client who can then
+drive sales. Below this is another large image of a happy Indian couple which is used to signify how the consumer will feel should they buy the service.
+
+#### Gallery
+
+The gallery page contains 15 images of the artists work, which are all fully responsive using the Bootstrap grid. In mobile views they align vertically allowing the user to get maximum image size on small screens and 
+scroll through quickly. On medium and large screens the images layout in sets of 2, with the larger vertical images aligned together with one at the bottom to provide a more stylish design. 
+
+#### Prices
+
+The prices page is clean and simple it uses an information text box similar to the one used on the home page to display the various services on offer. There is also a phone number link so that the artist is easily contactable
+if the price point impulses someone to get in touch. The prices page also contains a testimonial quote from a customer, which is used before the footer. This builds trust in the business for a consumer as they can see evidence
+that the client performs a good service.
+
+#### Contact/Request Quote
+
+The key element of this page is the request quote bootstrap form. It has a simple design and only captures what is relevant and necessary to fulfil the quote as per the GDPR. Below this and before the footer is a message from the artist which is designed to leave a personal
+and lasting impression on the consumer. This will make them feel special and like they are in good hands.
+
+
+
+
+
 
 
 
