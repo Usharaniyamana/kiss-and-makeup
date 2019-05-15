@@ -141,7 +141,46 @@ and lasting impression on the consumer. This will make them feel special and lik
 * CSS
 * Boostrap
 * Jquery
+
+
+
+## Testing
+
+#### W3
+I conducted automated testing using the W3 HTML checker, this displays any syntax errors within the html code, I ran it on each page and then went through and fixed each error one by one, until the validator produced no errors. This required me to run it
+serveral times until it was error free.
  
+#### Audits / Google Dev Tools
+I used google devtools to run audits on the performance, accessibility and best practices on the website for both mobile and desktop layouts. I then took on board the feedback and made changes to my website where necessary in order to achieve higher scores. I came to the conclusion
+some of the advice around accessibility would have hindered the design of the website so I made improvements where I could without majorly affecting the current design, as per my clients request.
+
+#### Manual Testing
+I have tested each page on the following browsers:  
+
+* Google Chrome
+* Apple Safari
+* Microsoft Edge
+* Internet Explorer
+
+#### Devices Tested
+
+* Iphone X
+* Iphone 8
+* Microsoft Surfacebook Pro
+* Samasung Tablet
+* Ultra Large Samsung Display 
+* Ipad Pro
+* Ipad
+
+So far I have been unable to identify any issues with my tests, the website responds well on each screen size and seems to work across various browsers, during the development of the website I ensured I had a large screen, a 13 inch laptop screen an Ipad screen and a mobile screen 
+at all times so that I could constantly check back and make sure the designs were working on each screen. 
+
+#### User Tests
+
+I got members of my freinds and family to try the website on their devices then asked for feedback, I would then review the feedback and implement it where relevant in the design. The initial feedback I recieved was that 
+the original main images were not a high enough resolution for larger screens and I decided to use some high resoluton stock photos to fix this. This resulted in the website looking a lot more professional and is a good examples
+of the testing and feedback enhancing the overall design of the website. 
+
 
 ## Deployment
 
