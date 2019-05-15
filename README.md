@@ -135,11 +135,6 @@ and lasting impression on the consumer. This will make them feel special and lik
 * Video of the artist performing a makeover, this will be added to the website on either the home page or the pricings page once it is provided by the client. 
 
 
-
-
-
-
-
 ## Technologies Used
 
 * HTML
