@@ -127,6 +127,13 @@ The key element of this page is the request quote bootstrap form. It has a simpl
 and lasting impression on the consumer. This will make them feel special and like they are in good hands.
 
 
+#### Features Left To Implement
+
+* Privacy Policy link to link out to the clients privacy policy, currently it links to a template policy.
+* GDPR cookie opt in - this will take the form of a pop up on the landing page so a user can select their cookie settings.
+* FAQ page so customers can quickly get answers to the most common questions.
+* Video of the artist performing a makeover, this will be added to the website on either the home page or the pricings page once it is provided by the client. 
+
 
 
 
