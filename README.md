@@ -182,8 +182,6 @@ of the testing and feedback enhancing the overall design of the website.
 
 ## Deployment
 
-This project was developed using the Cloud9 IDE, committed to git and pushed to GitHub using the built in function within cloud9.
-
 To deploy this page to GitHub Pages from its GitHub repository:
 
 1. Log into GitHub.
