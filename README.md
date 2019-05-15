@@ -1,14 +1,15 @@
 # Kiss & Makeup
 
 A stylish marketing website designed to promote and generate business for the clients Asian bridal hair and makeup business. The client is based within central London and is targeting business within that area.
-The website features include a landing page, gallery of the artists work. an estimated prices page and a contact pager containing a request quote form which can be used by a consumer to get an idea of what it will cost.  
+The website features include a landing page, gallery of the artists work. an estimated prices page and a contact page containing a request quote form which can be used by a consumer to get an idea of what it will cost.  
   
-Due to the nature of the business high quality images and examples of the artists work are key in impulsing a consumer to call the number r request a quote. As such the request quote button is more prominant than other pages, and the contaqct number appears reguarly throughout the site.    
+Due to the nature of the business high quality images and examples of the artists work are key in impulsing a consumer to call the number or request a quote. As such the request quote button is more prominant than other pages, 
+and the contact number appears reguarly throughout the site.    
 
 The business goals of the website are:
 
 * Provide brand awareness for the business.
-* Showcase the artists work in one asy to reach destination.
+* Showcase the artists work in one easy to reach destination.
 * Generate telephone leads and email leads which can be converted into bookings.
 * Guide customers towards either the phone number or the request quote form by using good UX.
 
@@ -17,10 +18,8 @@ Customer goals include:
 
 * Getting design ideas for their own weddings.
 * Viewing the artists work to  make an informed decision on whether it is the right service for them.
-* Easy to contact the artists either cia phone or via the request quote form.
+* Easy to contact the artists either via phone or via the request quote form.
 * Simple, elgant process designed to counteract the stresses of getting married!
-
-
 
 
 ## UX
@@ -39,7 +38,7 @@ Social media savvy.
 This project is the best way to help them achieve these things because:
 
 Based on my research there is a huge variety in the UX standard of other make-up artist's websites, they are often not responsive or out of date.  
-The majority of werbsites are aimed at European skin tones, this one is specifically for olive skin, and women with Asian ethnicity.  
+The majority of websites are aimed at European skin tones, this one is specifically for olive skin, and women with Asian ethnicity.  
 It will allow the customer to book in via phone or generate a quote depending on what they feel more comfortable with.  
 The make up artist has a large following on social media and as such comes up with bold, unique designs you likely will not be able to replicate elsewhere.  
 
@@ -47,7 +46,7 @@ This website is:
 
 Easy to use and elegant in design. It it aspirational and should conjure up thoughts of what the wedding day will feel like.  
 Designed to draw attention to the stunning images and the work of the artist.  
-Concise, all the infromation the client needs is there, without going into unnecessary detail.  
+Concise, all the information the client needs is there, without going into unnecessary detail.  
 Designed to guide the user towards requesting a quote or calling the phone number, at which point finer details can be discussed with the artist.  
 
 #### Client stories
@@ -101,7 +100,7 @@ Each page also contains a responsive footer which uses icons to link to the clie
 artist. It also contains links to my Github so anyone interested in website design knows where to find my work, as well as link to the privacy policy which will be used to comply with GDPR in the future.
 The final footer link is required to use the Lips Logo and credits the creator for their work. This is useful as anyone who likes the logo can check out more of their designs and is a good business practice. 
 
-All information text and images from the artists are styled with a gold border to make them stand out, this is seen frequently throughout the site. 
+All information text and images from the artist are styled with a gold border to make them stand out, this is seen frequently throughout the site. 
 
 #### Home
 
@@ -143,7 +142,6 @@ and lasting impression on the consumer. This will make them feel special and lik
 * Jquery
 
 
-
 ## Testing
 
 #### W3
@@ -173,12 +171,12 @@ I have tested each page on the following browsers:
 * Ipad
 
 So far I have been unable to identify any issues with my tests, the website responds well on each screen size and seems to work across various browsers, during the development of the website I ensured I had a large screen, a 13 inch laptop screen an Ipad screen and a mobile screen 
-at all times so that I could constantly check back and make sure the designs were working on each screen. 
+at all times so that I could constantly check back and make sure the designs were working on each screen. I have also tested all the links and they all link out to the appropriate pages.
 
 #### User Tests
 
-I got members of my freinds and family to try the website on their devices then asked for feedback, I would then review the feedback and implement it where relevant in the design. The initial feedback I recieved was that 
-the original main images were not a high enough resolution for larger screens and I decided to use some high resoluton stock photos to fix this. This resulted in the website looking a lot more professional and is a good examples
+I got members of my friends and family to try the website on their devices then asked for feedback, I would then review the feedback and implement it where relevant in the design. The initial feedback I recieved was that 
+the original main images were not a high enough resolution for larger screens and I decided to use some high resoluton stock photos to fix this. This resulted in the website looking a lot more professional and is a good example
 of the testing and feedback enhancing the overall design of the website. 
 
 
@@ -186,7 +184,7 @@ of the testing and feedback enhancing the overall design of the website.
 
 This project was developed using the Cloud9 IDE, committed to git and pushed to GitHub using the built in function within cloud9.
 
-To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
+To deploy this page to GitHub Pages from its GitHub repository:
 
 1. Log into GitHub.
 2. From the list of repositories on the screen, select Rorywork/kiss-and-makeup
