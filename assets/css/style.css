@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:600i|Fira+Sans');
 
-/*Layout*/
+/*LAYOUT*/
 
 html {
 	font-size: 16px;
@@ -24,7 +24,7 @@ footer {
 }
 
 
-/*Main images on each page, parallax (mobile) and overlays" */
+/*MAIN IMAGES ON EACH PAGE INCLUDING PARALLAX AND OVERLAY" */
 
 .parallax {
 	height: 100vh;
@@ -34,7 +34,7 @@ footer {
 	background-size: cover;
 }
 
-#parallax-footer{
+#parallax-footer {
 	background-image: url("https://images.pexels.com/photos/556667/pexels-photo-556667.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
 }
 
@@ -65,8 +65,9 @@ footer {
 }
 
 
-/* Cross Page Features i.e header and footer features */
-/*Header*/
+/* CROSS PAGE FEATURES */
+
+/*HEADER*/
 
 .navbar {
 	background-color: black;
@@ -78,7 +79,8 @@ footer {
 	height: 40px;
 }
 
-/*Generated Code for this button below at https://charliepark.org/bootstrap_buttons/*/
+/*GENERATED CODE FOR THIS BUTTON AT https://charliepark.org/bootstrap_buttons/*/
+
 .btn-custom {
 	background-color: hsl(54, 38%, 47%) !important;
 	background-repeat: repeat-x;
@@ -96,7 +98,7 @@ footer {
 	-webkit-font-smoothing: antialiased;
 }
 
-/*Body*/
+/*BODY*/
 
 .info-text-box {
 	text-align: center;
@@ -122,13 +124,14 @@ footer {
 }
 
 
-.set-of-images{
+.set-of-images {
 	background-color: #2d313c;
 	padding-bottom: 30px;
 }
 
 /*Footer*/
-#social-heading{
+
+#social-heading {
 	margin-top: 1.5rem;
 }
 
@@ -163,10 +166,11 @@ footer {
 
 /* Text classes */
 
-.gold-text{
+.gold-text {
 	font-family: 'Cormorant Garamond', serif;
 	color: #b9b080;
 }
+
 .headings {
 	font-size: 2rem;
 	font-weight: 600i;
@@ -180,7 +184,6 @@ footer {
 }
 
 /* INDEX FEATURES */
-
 
 .index-images {
 	display: block;
@@ -225,11 +228,12 @@ footer {
 	text-align: center;
 }
 
-#artist-text-prices{
+#artist-text-prices {
 	color: #2d313c;
-	font-family: 'Cormorant Garamond', serif;;
+	font-family: 'Cormorant Garamond', serif;
+	;
 	font-style: italic;
-	text-align: center;	
+	text-align: center;
 	padding: 50px;
 	background-color: white;
 }
@@ -266,7 +270,7 @@ footer {
 	#parallax-contact {
 		background-image: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("https://images.pexels.com/photos/1308881/pexels-photo-1308881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
 	}
-	#parallax-footer{
+	#parallax-footer {
 		background-image: url("https://www.cateringsensacions.com/wp-content/uploads/2017/12/VILLA-CATALINA-Niti-Chevy-Indian-wedding-5-2.jpg");
 	}
 }
