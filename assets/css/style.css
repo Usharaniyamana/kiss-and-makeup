@@ -275,6 +275,13 @@ footer {
 	}
 }
 
+@media(min-width: 1200px) {
+		.social-row{
+		margin: 0px 300px 0px 300px;
+		
+	}
+}
+
 @media only screen and (max-device-width: 1366px) {
 	.parallax {
 		background-attachment: scroll;
