@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:600i');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:600i|Fira+Sans');
 
 /*Layout*/
 
@@ -19,6 +19,10 @@ body {
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+
+#parallax-footer{
+	background-image: url("https://images.pexels.com/photos/556667/pexels-photo-556667.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
 }
 
 #parallax-index {
@@ -266,6 +270,9 @@ footer {
 	}
 	#parallax-contact {
 		background-image: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("https://images.pexels.com/photos/1308881/pexels-photo-1308881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	}
+	#parallax-footer{
+		background-image: url("https://www.cateringsensacions.com/wp-content/uploads/2017/12/VILLA-CATALINA-Niti-Chevy-Indian-wedding-5-2.jpg");
 	}
 }
 
