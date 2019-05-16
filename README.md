@@ -61,33 +61,33 @@ As an interested client, I want a simple quote request form that only captures i
 As a returning visitor to the website, who has already decided to contact the artist, I want to be able to request a quote or get back in touch should I have a new requirement. 
 
 #### Initial Sketches
-[Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Landing-Page.jpg)  
-[Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Gallery-Page.jpg)  
-[Pricing](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Prices-Page.jpg)  
-[Contact/Request Quote](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Contact-Page.jpg)  
-[Mobile Concept](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Sketch-Mobile-Concept.jpg)
+[Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/assets/sketches/Sketch-Landing-Page.jpg)  
+[Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/assets/sketches/Sketch-Gallery-Page.jpg)  
+[Pricing](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/assets/sketches/Sketch-Prices-Page.jpg)  
+[Contact/Request Quote](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/assets/sketches/images/Sketch-Contact-Page.jpg)  
+[Mobile Concept](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/assets/sketches/Sketch-Mobile-Concept.jpg)
 
 
 #### Wireframe mockups
 
 PC:
 
-[Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Landing-Page.PNG)  
-[Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Gallery-Page.PNG)  
-[Pricing](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Video-Pricing-Page.PNG)  
-[Contact/Request Quote](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Contact-Page.PNG)
+[Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/assets/wireframes/Wireframe-Landing-Page.PNG)  
+[Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/assets/wireframes/Wireframe-Gallery-Page.PNG)  
+[Pricing](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/assets/wireframes/Wireframe-Video-Pricing-Page.PNG)  
+[Contact/Request Quote](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/assets/wireframes/Wireframe-Contact-Page.PNG)
 
 Tablet:
 
-[Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Landing-Page-Tablet.PNG)  
-[Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Gallery-Page-Tablet.PNG)  
-[Pricing](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Prices-Tablet.PNG)  
-[Contact/Request Quote](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Contact-Page-Tablet.PNG)
+[Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/assets/wireframes/Wireframe-Landing-Page-Tablet.PNG)  
+[Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/assets/wireframes/Wireframe-Gallery-Page-Tablet.PNG)  
+[Pricing](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/assets/wireframes/Wireframe-Prices-Tablet.PNG)  
+[Contact/Request Quote](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/assets/wireframes/Wireframe-Contact-Page-Tablet.PNG)
 
 Mobile:
 
-[Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Landing-Page-Mobile.PNG)  
-[Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/images/Wireframe-Gallery-Page-Mobile.PNG)  
+[Home Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/assets/wireframes/Wireframe-Landing-Page-Mobile.PNG)  
+[Gallery Page](https://raw.githubusercontent.com/Rorywork/kiss-and-makeup/master/assets/wireframes/Wireframe-Gallery-Page-Mobile.PNG)  
 
 ## Features
 
