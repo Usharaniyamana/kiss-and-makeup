@@ -1,4 +1,5 @@
 # Kiss & Makeup
+[Check it out here!](https://rorywork.github.io/kiss-and-makeup/)
 
 A stylish marketing website designed to promote and generate business for the client's Asian bridal hair and makeup business. The client is based within central London and is targeting business within that area.
 The website features include a landing page, gallery of the artists work, an estimated prices page and a contact page containing a request quote form which can be used by a consumer to get an idea of what it will cost.  
@@ -203,6 +204,8 @@ To deploy this page to GitHub Pages from its GitHub repository:
 5. Under Source click the drop-down menu labeled None and select `Master Branch`
 6. On selecting `Master Branch` the page is automatically refreshed, the website is now deployed.
 7. Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
+8. [A working link to the website can be found here.](https://rorywork.github.io/kiss-and-makeup/)
+
 
 #### How to run this project locally
 To clone this project from GitHub:
