@@ -174,9 +174,9 @@ I found a bug whereby the parallax does not work in Safari, to combat this I hav
 * Ipad Pro
 * Ipad
 
-I found a bug whereby the parallax does not work in Safari, to combat this I have disabled it for mobile devices in order to geenrally increase load speeds until all mobiel browsers support the functionality. 
+I found a bug whereby the `parallax` does not work in Safari, to combat this I have disabled it for mobile devices in order to geenrally increase load speeds until all mobiel browsers support the functionality. 
 
-So far, other than the parallax bug I have been unable to identify any issues with my tests, the website responds well on each screen size and seems to work across various browsers, during the development of the website I ensured I had a large screen, a 13 inch laptop screen an Ipad screen and a mobile screen 
+So far, other than the `parallax` bug I have been unable to identify any issues with my tests, the website responds well on each screen size and seems to work across various browsers, during the development of the website I ensured I had a large screen, a 13 inch laptop screen an Ipad screen and a mobile screen 
 at all times so that I could constantly check back and make sure the designs were working on each screen. I have also tested all the links and they all link out to the appropriate pages.
 
 #### User Tests
@@ -199,11 +199,12 @@ I asked my peers on the Code Insitute Slack channel for feedback on the website 
 To deploy this page to GitHub Pages from its GitHub repository:
 
 1. Log into GitHub.
-2. From the list of repositories on the screen, select Rorywork/kiss-and-makeup
-3. Scroll down to the GitHub Pages section.
-4. Under Source click the drop-down menu labelled None and select Master Branch
-5. On selecting Master Branch the page is automatically refreshed, the website is now deployed.
-6. Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
+2. From the list of repositories on the screen, select `Rorywork/kiss-and-makeup`
+3. Go to settings on right hand side of page and click on it.
+4. Scroll down to the GitHub Pages section.
+5. Under Source click the drop-down menu labelled None and select `Master Branch`
+6. On selecting `Master Branch` the page is automatically refreshed, the website is now deployed.
+7. Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
 
 #### How to run this project locally
 To clone this project from GitHub:
@@ -213,8 +214,8 @@ To clone this project from GitHub:
 3. In the Clone with HTTPs section, copy the clone URL for the repository.
 4. In your local IDE open Git Bash.
 5. Change the current working directory to the location where you want the cloned directory to be made.
-6. Type git clone, and then paste the URL you copied in Step 3.
-7. git clone https://github.com/USERNAME/REPOSITORY
+6. Type `git clone`, and then paste the URL you copied in Step 3.
+7. ```git clone https://github.com/USERNAME/REPOSITORY```
 8. Press Enter. Your local clone will be created.
 9. Further reading and troubleshooting on cloning a repository from GitHub here.
 
