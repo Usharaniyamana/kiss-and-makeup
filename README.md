@@ -185,8 +185,8 @@ I asked my peers on the Code Insitute Slack channel for feedback on the website 
 
 * My readme required some edits, I was advised that Fontawesome and Google Fonts need to go in my technology section I have now added them.
 * I was advised to add more comments tan attribute to make it open in a seperate window, I have now implemented this.
-* I was advised that the footer social links are very tall stacked on top of each other in mobile, and they are too far apart on wider screens. I kept them stacked on top of each other as I quite liked the design
-  however I felt the second point was very valid so have brought them closer together on large screen sizes. 
+* I was advised that the footer social links are very tall stacked on top of each other in mobile, and they are too far apart on wider screens. I kept them stacked on top of each other in mobile as I quite liked the design
+  however I felt the second point was very valid so have brought them closer together on large screen sizes.
 
 
 
