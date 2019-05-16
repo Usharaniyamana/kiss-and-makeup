@@ -126,6 +126,11 @@ body {
 	padding-bottom: 30px;
 }
 
+#prices-images-row {
+	background-color: #2d313c;
+	padding-bottom: 30px;
+}
+
 .text-banner {
 	background-color: #FCE8EC;
 	padding: 40px;
@@ -226,12 +231,20 @@ footer {
 .testimonial-text {
 	color: #b9b080;
 	font-family: 'Cormorant Garamond', serif;
-	/*font-size: 30px;*/
 	font-style: italic;
 	text-align: center;
 	padding-top: 30px;
 	padding-bottom: 30px;
 	background-color: #2d313c;
+}
+
+#artist-text-prices{
+	color: #2d313c;
+	font-family: 'Cormorant Garamond', serif;;
+	font-style: italic;
+	text-align: center;	
+	padding: 50px;
+	background-color: white;
 }
 
 
