@@ -7,6 +7,11 @@ html {
 	height: 100%;
 }
 
+
+
+/*The scroll-behavior smooth within the body is used to make the site flow better and is particularily noticeable on the contact form page. It is subtle but useful. */
+
+
 body {
 	scroll-behavior:  smooth;
 	font-family: 'Fira Sans', sans-serif;
@@ -25,6 +30,7 @@ footer {
 
 
 /*MAIN IMAGES ON EACH PAGE INCLUDING PARALLAX AND OVERLAY" */
+/* The main images change depending on the device, mobiles display vertical images, tablet and desktop display horizontal images, I did this using media queries at the bottom and the parallax below */
 
 .parallax {
 	height: 100vh;
@@ -79,7 +85,10 @@ footer {
 	height: 40px;
 }
 
-/*GENERATED CODE FOR THIS BUTTON AT https://charliepark.org/bootstrap_buttons/*/
+/*
+GENERATED CODE FOR THIS BUTTON AT https://charliepark.org/bootstrap_buttons/
+This tool was very useful as the BVoostrap colors did not match my theme or the color scheme my client wanted, it allows you to make the button gold, you simply select the shade you want on their website and it will generate the code for you
+*/
 
 .btn-custom {
 	background-color: hsl(54, 38%, 47%) !important;
@@ -231,7 +240,6 @@ footer {
 #artist-text-prices {
 	color: #2d313c;
 	font-family: 'Cormorant Garamond', serif;
-	;
 	font-style: italic;
 	text-align: center;
 	padding: 50px;
@@ -257,6 +265,9 @@ footer {
 
 /* MEDIA QUERIES */
 
+/* The use of the media queries with the paralx is so that on desktops I can change the main images to horizontal images which look better on desktop, the paralax images are portrait in mobile and then completely change when on tablet or desktop,
+I feel this is very visually appealing and adds something extra to the website. */
+
 @media (min-width: 601px) {
 	#parallax-index {
 		background-image: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("https://images.pexels.com/photos/1308578/pexels-photo-1308578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
@@ -275,12 +286,16 @@ footer {
 	}
 }
 
+/* I was advised by one of my colleagues that on wider screens the social media icons where too far apart so I used this media queiry to beign them closer together, I believe this was great advice and the site looks better as a result*/
+
 @media(min-width: 1200px) {
 		.social-row{
 		margin: 0px 300px 0px 300px;
 		
 	}
 }
+
+/* This is used to turn the paralax on when using non mobile devices, after doing research I realised that Safari does not support paralax and it does not work great on mobile in general, so I switch it on with this media query on larger screens*/
 
 @media only screen and (max-device-width: 1366px) {
 	.parallax {

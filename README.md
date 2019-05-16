@@ -184,10 +184,10 @@ of the testing and feedback enhancing the overall design of the website.
 I asked my peers on the Code Insitute Slack channel for feedback on the website and received the following feedback:
 
 * My readme required some edits, I was advised that Fontawesome and Google Fonts need to go in my technology section I have now added them.
-* I was advised to add more comments tan attribute to make it open in a seperate window, I have now implemented this.
+* It was suggested I add more comments to my html and css at the more complicated parts I have now put more comments in so other developers can follow what I am doing. 
+* I was advised to add an attribute to make my privacy policy open in a seperate window, I have now implemented this by using the target="blank" attribute on my privacy policy link. I also did this for my github link.
 * I was advised that the footer social links are very tall stacked on top of each other in mobile, and they are too far apart on wider screens. I kept them stacked on top of each other in mobile as I quite liked the design
-  however I felt the second point was very valid so have brought them closer together on large screen sizes.
-
+  however I felt the second point was very valid so have brought them closer together on large screen sizes by using a media query which adds some margins to the left and right when the screen size hits 1200 pixels.
 
 
 ## Deployment
