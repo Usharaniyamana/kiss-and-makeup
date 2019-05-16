@@ -11,9 +11,8 @@ html {
 
 /*The scroll-behavior smooth within the body is used to make the site flow better and is particularily noticeable on the contact form page. It is subtle but useful. */
 
-
 body {
-	scroll-behavior:  smooth;
+	scroll-behavior: smooth;
 	font-family: 'Fira Sans', sans-serif;
 	height: 100%;
 }
@@ -30,6 +29,7 @@ footer {
 
 
 /*MAIN IMAGES ON EACH PAGE INCLUDING PARALLAX AND OVERLAY" */
+
 /* The main images change depending on the device, mobiles display vertical images, tablet and desktop display horizontal images, I did this using media queries at the bottom and the parallax below */
 
 .parallax {
@@ -289,9 +289,9 @@ I feel this is very visually appealing and adds something extra to the website. 
 /* I was advised by one of my colleagues that on wider screens the social media icons where too far apart so I used this media queiry to beign them closer together, I believe this was great advice and the site looks better as a result*/
 
 @media(min-width: 1200px) {
-		.social-row{
+	.social-row {
 		margin: 0px 300px 0px 300px;
-		
+
 	}
 }
 
