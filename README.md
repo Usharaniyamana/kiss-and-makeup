@@ -138,10 +138,10 @@ and lasting impression on the consumer. This will make them feel special and lik
 
 * HTML
 * CSS
-* Boostrap
-* Jquery
-* Google Fonts
-* Fontawesome
+* [Bootstrap](https://getbootstrap.com/)
+* [Jquery](https://jquery.com/)
+* [Google Fonts](https://fonts.google.com/)
+* [Fontawesome](https://fontawesome.com/)
 
 
 ## Testing
@@ -150,8 +150,8 @@ and lasting impression on the consumer. This will make them feel special and lik
 I conducted automated testing using the W3 HTML checker, this displays any syntax errors within the html code, I ran it on each page and then went through and fixed each error one by one, until the validator produced no errors. This required me to run it
 serveral times until it was error free.
  
-#### Audits / Google Dev Tools
-I used google devtools to run audits on the performance, accessibility and best practices on the website for both mobile and desktop layouts. I then took on board the feedback and made changes to my website where necessary in order to achieve higher scores. I came to the conclusion
+#### Audits / Chrome Dev Tools
+I used Chrome Dev Tools to run audits on the performance, accessibility and best practices on the website for both mobile and desktop layouts. I then took on board the feedback and made changes to my website where necessary in order to achieve higher scores. I came to the conclusion
 some of the advice around accessibility would have hindered the design of the website so I made improvements where I could without majorly affecting the current design, as per my clients request.
 
 #### Manual Testing
@@ -162,17 +162,21 @@ I have tested each page on the following browsers:
 * Microsoft Edge
 * Internet Explorer
 
+I found a bug whereby the parallax does not work in Safari, to combat this I have disabled it for mobile devices in order to geenrally increase load speeds until all mobiel browsers support the functionality. 
+
 #### Devices Tested
 
 * Iphone X
 * Iphone 8
 * Microsoft Surfacebook Pro
-* Samasung Tablet
+* Samsung Tablet
 * Ultra Large Samsung Display 
 * Ipad Pro
 * Ipad
 
-So far I have been unable to identify any issues with my tests, the website responds well on each screen size and seems to work across various browsers, during the development of the website I ensured I had a large screen, a 13 inch laptop screen an Ipad screen and a mobile screen 
+I found a bug whereby the parallax does not work in Safari, to combat this I have disabled it for mobile devices in order to geenrally increase load speeds until all mobiel browsers support the functionality. 
+
+So far, other than the parallax bug I have been unable to identify any issues with my tests, the website responds well on each screen size and seems to work across various browsers, during the development of the website I ensured I had a large screen, a 13 inch laptop screen an Ipad screen and a mobile screen 
 at all times so that I could constantly check back and make sure the designs were working on each screen. I have also tested all the links and they all link out to the appropriate pages.
 
 #### User Tests
@@ -227,7 +231,6 @@ To clone this project from GitHub:
 #### Code
 
 * CSS code for the gold bootstrap button was provided by the [Charlie Park](https://charliepark.org/bootstrap_buttons/) generator.
-* HTML code for the social media icons were provided by [Fontawesome](https://fontawesome.com/).
 * HTML code for the favicon was provided by [Favicon](https://favicon-generator.org).
 
 
@@ -236,6 +239,7 @@ To clone this project from GitHub:
 The following websites provided some inital ideas and inspiration for the wireframes:
 
 * [Portait Artist - Anna Gilhespy](https://ajgreaves.github.io/portrait-artist/)
+* [Check out Anna's Github](https://github.com/AJGreaves/portrait-artist)
 * [Tara Sanger](http://www.tarasangermakeup.co.uk/)
 * [Asian Wedding Directory](https://www.asianaweddingdirectory.co.uk/beauty)
 * [Boudoir Belle](http://www.makeupartistsouthampton.co.uk/professional-asian-indian-bridal-makeup-artist/)
@@ -245,6 +249,7 @@ The following websites provided some inital ideas and inspiration for the wirefr
 
 * Janaki Rai the client provided me with useful feedback of how she would like the website to work.
 * My tutor Simen Daehlin provided useful links, tips and advice on improving the website.
+* [Check out Simen's Github](https://github.com/Eventyret)
 
 
 #### Disclaimer
