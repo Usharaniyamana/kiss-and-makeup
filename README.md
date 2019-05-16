@@ -140,6 +140,8 @@ and lasting impression on the consumer. This will make them feel special and lik
 * CSS
 * Boostrap
 * Jquery
+* Google Fonts
+* Fontawesome
 
 
 ## Testing
@@ -178,6 +180,14 @@ at all times so that I could constantly check back and make sure the designs wer
 I got members of my friends and family to try the website on their devices then asked for feedback, I would then review the feedback and implement it where relevant in the design. The initial feedback I recieved was that 
 the original main images were not a high enough resolution for larger screens and I decided to use some high resoluton stock photos to fix this. This resulted in the website looking a lot more professional and is a good example
 of the testing and feedback enhancing the overall design of the website. 
+
+I asked my peers on the Code Insitute Slack channel for feedback on the website and received the following feedback:
+
+* My readme required some edits, I was advised that Fontawesome and Google Fonts need to go in my technology section I have now added them.
+* I was advised to add more comments tan attribute to make it open in a seperate window, I have now implemented this.
+* I was advised that the footer social links are very tall stacked on top of each other in mobile, and they are too far apart on wider screens. I kept them stacked on top of each other as I quite liked the design
+  however I felt the second point was very valid so have brought them closer together on large screen sizes. 
+
 
 
 ## Deployment
@@ -223,7 +233,7 @@ To clone this project from GitHub:
 
 #### Inspiration
 
-The following websites provided some inital ideas an inspiration for the wireframes:
+The following websites provided some inital ideas and inspiration for the wireframes:
 
 * [Portait Artist - Anna Gilhespy](https://ajgreaves.github.io/portrait-artist/)
 * [Tara Sanger](http://www.tarasangermakeup.co.uk/)
