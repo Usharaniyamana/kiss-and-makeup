@@ -8,7 +8,7 @@ html {
 }
 
 body {
-	scroll-behavour: smooth;
+	scroll-behaviour: smooth;
 	font-family: 'Fira Sans', sans-serif;
 	height: 100%;
 }
@@ -80,16 +80,6 @@ body {
 	height: 40px;
 }
 
-#navbarSupportedContent {
-	text-align: center;
-}
-
-.gold-text {
-	color: #b9b080;
-	font-family: 'Cormorant Garamond', serif;
-	font-size: 2rem;
-	font-style: italic;
-}
 
 .info-text-box {
 	text-align: center;
@@ -99,6 +89,7 @@ body {
 	font-family: 'Fira Sans' serif;
 }
 
+/*Generated Code for this button below at https://charliepark.org/bootstrap_buttons/*/
 .btn-custom {
 	background-color: hsl(54, 38%, 47%) !important;
 	background-repeat: repeat-x;
