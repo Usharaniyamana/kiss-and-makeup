@@ -13,6 +13,19 @@ body {
 	height: 100%;
 }
 
+footer {
+	text-align: center;
+}
+
+.navbar {
+	background-color: black;
+	font-family: 'Cormorant Garamond', serif;
+	font-style: italic;
+}
+
+
+/*Main images on each page, parallax (mobile) and overlays" */
+
 .parallax {
 	height: 100vh;
 	background-attachment: fixed;
@@ -52,23 +65,8 @@ body {
 }
 
 
-/*Cross-Page Classes and ID's*/
-
-.headings {
-	font-size: 2rem;
-	font-family: 'Cormorant Garamond', serif;
-	font-weight: 600i;
-	color: #b9b080;
-	text-align: center;
-}
-
-.heading-subtext {
-	font-size: 1.25rem;
-	color: #b9b080;
-	font-weight: 500;
-	text-align: center;
-	font-family: 'Cormorant Garamond', serif;
-}
+/* Cross Page Features i.e header and footer features */
+/*Header*/
 
 .navbar {
 	background-color: black;
@@ -78,15 +76,6 @@ body {
 
 .logo {
 	height: 40px;
-}
-
-
-.info-text-box {
-	text-align: center;
-	background-color: white;
-	padding: 20px;
-	border: 2px solid #b9b080;
-	font-family: 'Fira Sans' serif;
 }
 
 /*Generated Code for this button below at https://charliepark.org/bootstrap_buttons/*/
@@ -107,60 +96,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 }
 
-#index-images-row {
-	background-color: #2d313c;
-	padding-bottom: 30px;
-}
-
-#gallery-images-row {
-	background-color: #2d313c;
-	padding-bottom: 30px;
-}
-
-#prices-images-row {
-	background-color: #2d313c;
-	padding-bottom: 30px;
-}
-
-.text-banner {
-	background-color: #FCE8EC;
-	padding: 40px;
-}
-
-.index-images {
-	display: block;
-	margin: auto;
-	max-width: 100%;
-	height: auto;
-	margin-top: 30px;
-	border: 2px solid #b9b080;
-}
-
-.gallery-images {
-	margin: auto;
-	margin-top: 30px;
-	border: 2px solid #b9b080;
-}
-
-.fa-phone {
-	font-size: 2rem;
-	color: #b9b080;
-	display: block;
-}
-
-.main-page-image {
-	padding-top: 60px;
-	width: 99vw;
-}
-
-#prices-info-section {
-	background-color: #FCE8EC;
-}
-
-.text-banner {
-	background-color: #FCE8EC;
-	padding: 40px;
-}
+/*Body*/
 
 .info-text-box {
 	text-align: center;
@@ -170,25 +106,28 @@ body {
 	font-family: 'Fira Sans' serif;
 }
 
+.text-banner {
+	background-color: #FCE8EC;
+	padding: 40px;
+}
 
-/*Contact Page Specific ID's*/
-
-#contact-text-box {
+.testimonial-text {
 	color: #b9b080;
+	font-family: 'Cormorant Garamond', serif;
+	font-style: italic;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: #2d313c;
 }
 
-#request-quote-form {
-	width: 60vw
-}
 
+.set-of-images{
+	background-color: #2d313c;
+	padding-bottom: 30px;
+}
 
 /*Footer*/
-
-footer {
-	text-align: center;
-	font-size: 1rem;
-}
-
 #social-heading{
 	margin-top: 1.5rem;
 }
@@ -206,40 +145,8 @@ footer {
 }
 
 .rory-credit {
-	/*font-size: 10px;*/
 	font-style: italic;
 }
-
-#bottom-index-image {
-	width: 99vw;
-}
-
-.prices-sub-text {
-	font-family: 'Fira Sans', sans-serif;
-	text-align: center;
-}
-
-.testimonial-text {
-	color: #b9b080;
-	font-family: 'Cormorant Garamond', serif;
-	font-style: italic;
-	text-align: center;
-	padding-top: 30px;
-	padding-bottom: 30px;
-	background-color: #2d313c;
-}
-
-#artist-text-prices{
-	color: #2d313c;
-	font-family: 'Cormorant Garamond', serif;;
-	font-style: italic;
-	text-align: center;	
-	padding: 50px;
-	background-color: white;
-}
-
-
-/*Phone Numbers*/
 
 .phone-number {
 	font-size: 2rem;
@@ -254,13 +161,97 @@ footer {
 	color: #b9b080;
 }
 
-#phone-number-prices {
+/* Text classes */
+
+.gold-text{
+	font-family: 'Cormorant Garamond', serif;
+	color: #b9b080;
+}
+.headings {
 	font-size: 2rem;
+	font-weight: 600i;
+	text-align: center;
 }
 
-.request-quote-form {
+.heading-subtext {
+	font-size: 1.25rem;
+	font-weight: 500;
+	text-align: center;
+}
+
+/* INDEX FEATURES */
+
+
+.index-images {
+	display: block;
+	margin: auto;
+	max-width: 100%;
+	height: auto;
+	margin-top: 30px;
+	border: 2px solid #b9b080;
+}
+
+.index-images {
+	display: block;
+	margin: auto;
+	max-width: 100%;
+	height: auto;
+	margin-top: 30px;
+	border: 2px solid #b9b080;
+}
+
+.fa-phone {
+	font-size: 2rem;
+	color: #b9b080;
+	display: block;
+}
+
+/* GALLERY FEATURES*/
+
+.gallery-images {
+	margin: auto;
+	margin-top: 30px;
+	border: 2px solid #b9b080;
+}
+
+/* PRICES FEATURES */
+
+#prices-info-section {
+	background-color: #FCE8EC;
+}
+
+.prices-sub-text {
+	font-family: 'Fira Sans', sans-serif;
+	text-align: center;
+}
+
+#artist-text-prices{
+	color: #2d313c;
+	font-family: 'Cormorant Garamond', serif;;
+	font-style: italic;
+	text-align: center;	
+	padding: 50px;
+	background-color: white;
+}
+
+
+
+/*CONTACT/REQUEST QUOTE FEATURES*/
+
+#contact-text-box {
+	color: #b9b080;
+}
+
+#request-quote-form {
+	width: 60vw
+}
+
+
+#request-quote-form {
 	font-family: 'Fira Sans', sans-serif;
 }
+
+/* MEDIA QUERIES */
 
 @media (min-width: 601px) {
 	#parallax-index {
