@@ -1,4 +1,4 @@
-# Kiss & Makeup
+# beauty
 [Check it out here!](https://rorywork.github.io/kiss-and-makeup/)
 
 A stylish marketing website designed to promote and generate business for the client's Asian bridal hair and makeup business. The client is based within central London and is targeting business within that area.
